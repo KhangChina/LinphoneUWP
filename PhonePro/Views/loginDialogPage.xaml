@@ -1,0 +1,39 @@
+﻿<ContentDialog
+    x:Class="PhonePro.Views.loginDialogPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+   
+    mc:Ignorable="d"
+    Title="Login SipPhone"
+    PrimaryButtonText="Login"
+    PrimaryButtonClick="ContentDialog_PrimaryButtonClick"
+    CloseButtonText="Exit"
+    >
+    <Grid x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
+        <Grid
+            Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
+            
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Width="Auto">
+                <BitmapIcon Name="SlicesIcon" UriSource="https://portal.htgsoft.com/media/khang-nguyen-xuan/HTG_Logo.png?_t=1655867586" Width="100px" ShowAsMonochrome="False"/>
+
+                <TextBox Header="Enter your domain SipServer:" PlaceholderText="192.168.100.251" Width="400px" x:Name="txtDomain"/>
+
+                <TextBox Header="Enter your name:" PlaceholderText="369" x:Name="txtUsername"/>
+                <TextBlock Text="Enter your password: "/>
+                <StackPanel Orientation="Horizontal" >
+
+
+                    <PasswordBox  Name="txtPassword" Width="250" Margin="0,0,8,0" PasswordRevealMode="Hidden" AutomationProperties.Name="Sample password box"/>
+
+                    <CheckBox Name="revealModeCheckBox" Content="Show password" IsChecked="False" Checked="revealModeCheckBox_Checked" Unchecked="revealModeCheckBox_Checked"/>
+
+                </StackPanel>
+
+
+            </StackPanel>
+
+        </Grid>
+    </Grid>
+</ContentDialog>
