@@ -34,6 +34,7 @@
             -->
             <winui:NavigationViewItem x:Uid="Shell_Main" Icon="Phone" helpers:NavHelper.NavigateTo="views:MainPage" />
             <!--<winui:NavigationViewItem x:Uid="Shell_loginDialog" Icon="Document" helpers:NavHelper.NavigateTo="views:loginDialogPage" />-->
+            <winui:NavigationViewItem x:Uid="Shell_PhoneBook" Icon="Document" helpers:NavHelper.NavigateTo="views:PhoneBookPage" />
         </winui:NavigationView.MenuItems>
         
         <i:Interaction.Behaviors>

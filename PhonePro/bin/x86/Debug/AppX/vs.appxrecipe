@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>CHINA</Machine>
-    <WindowsUser>China</WindowsUser>
+    <Machine>KHANG</Machine>
+    <WindowsUser>khang</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,15 +10,15 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7</PackageIdentityName>
     <PackageIdentityPublisher>CN=China</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\Project\Windows 10 App\PhonePro\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Projects\C#\LinphoneUWP\PhonePro\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
-    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\AppX</LayoutDir>
+    <WindowsSdkPath>D:\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>A7D5377311E97735D087271F1D99D03187883ADEC76E877281A1614F0AD325F6</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7_1.0.0.0_x86__h9rhtbj2fn0m6</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7_h9rhtbj2fn0m6!App</RegisteredUserModeAppID>
@@ -27,245 +27,245 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-07T09:56:16.623</Modified>
+      <Modified>2022-10-09T06:54:03.329</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\PhonePro.exe">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\PhonePro.exe">
       <PackagePath>entrypoint\PhonePro.exe</PackagePath>
-      <Modified>2022-10-07T09:56:15.264</Modified>
+      <Modified>2022-10-09T06:53:56.985</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\microsoft.bcl.asyncinterfaces\5.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
+    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\microsoft.bcl.asyncinterfaces\5.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
       <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
       <Modified>2020-10-19T18:40:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\microsoft.toolkit.mvvm\7.0.2\lib\netstandard2.0\Microsoft.Toolkit.Mvvm.dll">
+    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\microsoft.toolkit.mvvm\7.0.2\lib\netstandard2.0\Microsoft.Toolkit.Mvvm.dll">
       <PackagePath>Microsoft.Toolkit.Mvvm.dll</PackagePath>
       <Modified>2021-05-12T07:41:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
+    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
       <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
       <Modified>2019-04-27T01:06:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
+    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
       <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
       <Modified>2019-04-27T01:06:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
       <Modified>2021-02-05T01:15:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.3\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.3\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
       <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
       <Modified>2020-02-19T10:05:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro.Core\bin\Debug\netstandard2.0\PhonePro.Core.dll">
-      <PackagePath>PhonePro.Core.dll</PackagePath>
-      <Modified>2022-10-07T08:44:46.526</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+    <AppxPackagedFile Include="D:\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2020-12-01T21:52:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2022-10-07T08:44:07.382</Modified>
+      <Modified>2022-10-08T12:49:33.893</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2022-10-07T08:44:06.167</Modified>
+      <Modified>2022-10-08T12:49:33.874</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-07T08:44:06.169</Modified>
+      <Modified>2022-10-08T12:49:33.874</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-07T08:44:06.171</Modified>
+      <Modified>2022-10-08T12:49:33.874</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-07T08:44:06.174</Modified>
+      <Modified>2022-10-08T12:49:33.883</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-07T08:44:06.175</Modified>
+      <Modified>2022-10-08T12:49:33.884</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-07T08:44:06.177</Modified>
+      <Modified>2022-10-08T12:49:33.885</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-07T08:44:06.179</Modified>
+      <Modified>2022-10-08T12:49:33.885</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\PhonePro.xr.xml">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\PhonePro.xr.xml">
       <PackagePath>PhonePro.xr.xml</PackagePath>
-      <Modified>2022-10-07T09:56:15.014</Modified>
+      <Modified>2022-10-08T14:05:06.527</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-10-07T09:56:15.123</Modified>
+      <Modified>2022-10-09T06:53:56.767</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\Styles\Page.xbf">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\Page.xbf">
       <PackagePath>Styles\Page.xbf</PackagePath>
-      <Modified>2022-10-07T09:56:15.123</Modified>
+      <Modified>2022-10-09T06:53:56.766</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\Styles\_Colors.xbf">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_Colors.xbf">
       <PackagePath>Styles\_Colors.xbf</PackagePath>
-      <Modified>2022-10-07T09:56:15.123</Modified>
+      <Modified>2022-10-09T06:53:56.766</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\Styles\_FontSizes.xbf">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_FontSizes.xbf">
       <PackagePath>Styles\_FontSizes.xbf</PackagePath>
-      <Modified>2022-10-07T09:56:15.123</Modified>
+      <Modified>2022-10-09T06:53:56.766</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\Styles\_Thickness.xbf">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_Thickness.xbf">
       <PackagePath>Styles\_Thickness.xbf</PackagePath>
-      <Modified>2022-10-07T09:56:15.123</Modified>
+      <Modified>2022-10-09T06:53:56.766</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\Styles\TextBlock.xbf">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\TextBlock.xbf">
       <PackagePath>Styles\TextBlock.xbf</PackagePath>
-      <Modified>2022-10-07T09:56:15.123</Modified>
+      <Modified>2022-10-09T06:53:56.767</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\Views\loginDialogPage.xbf">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Views\loginDialogPage.xbf">
       <PackagePath>Views\loginDialogPage.xbf</PackagePath>
-      <Modified>2022-10-07T09:56:15.123</Modified>
+      <Modified>2022-10-09T06:53:56.767</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\Views\MainPage.xbf">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2022-10-07T09:56:15.123</Modified>
+      <Modified>2022-10-09T06:53:56.767</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\Views\ShellPage.xbf">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Views\PhoneBookPage.xbf">
+      <PackagePath>Views\PhoneBookPage.xbf</PackagePath>
+      <Modified>2022-10-09T06:53:56.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Views\ShellPage.xbf">
       <PackagePath>Views\ShellPage.xbf</PackagePath>
-      <Modified>2022-10-07T09:56:15.123</Modified>
+      <Modified>2022-10-09T06:53:56.767</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
       <Modified>2020-12-01T21:59:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
+    <AppxPackagedFile Include="D:\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2020-12-01T19:52:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
+    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2020-12-03T09:46:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-10-07T08:52:11.607</Modified>
+      <Modified>2022-10-09T06:54:00.225</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Project\Windows 10 App\PhonePro\bin\x86\Debug\Core\PhonePro.exe">
+    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Core\PhonePro.exe">
       <PackagePath>PhonePro.exe</PackagePath>
-      <Modified>2022-10-07T09:56:16.623</Modified>
+      <Modified>2022-10-09T06:54:03.316</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx">
+    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx">
       <Name>Microsoft.UI.Xaml.2.5</Name>
       <Version>2.52012.2002.0</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <AppxLocation>C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx">
+    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx">
       <Name>Microsoft.UI.Xaml.2.5</Name>
       <Version>2.52012.2002.0</Version>
       <Architecture>Win32</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <AppxLocation>C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.5.appx">
+    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.5.appx">
       <Name>Microsoft.UI.Xaml.2.5</Name>
       <Version>2.52012.2002.0</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <AppxLocation>C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.5.appx">
+    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.5.appx">
       <Name>Microsoft.UI.Xaml.2.5</Name>
       <Version>2.52012.2002.0</Version>
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <AppxLocation>C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.5.appx">
+    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.5.appx">
       <Name>Microsoft.UI.Xaml.2.5</Name>
       <Version>2.52012.2002.0</Version>
       <Architecture>arm64</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <AppxLocation>C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
       <Version>2.2.29713.2</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\China\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\khang\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
       <Version>2.2.29713.2</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\China\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\khang\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
       <Version>2.2.29713.2</Version>
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\China\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\khang\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
       <Version>2.2.29301.2</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\China\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\khang\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
       <Version>2.2.29301.2</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\China\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\khang\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
       <Version>2.2.29301.2</Version>
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\China\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\khang\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>

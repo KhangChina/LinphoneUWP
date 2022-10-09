@@ -101,6 +101,7 @@
       <RootProperty Name="Margin" />
     </RootType>
     <RootType FullName="PhonePro.Views.MainPage" />
+    <RootType FullName="PhonePro.Views.PhoneBookPage" />
     <RootType FullName="Microsoft.Xaml.Interactivity.Interaction">
       <RootMethod Name="GetBehaviors" />
       <RootMethod Name="SetBehaviors" />

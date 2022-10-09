@@ -230,12 +230,6 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\PhonePro.Core\PhonePro.Core.csproj">
-      <Project>{78D654BE-6F3B-4700-83AB-62AA9BB56AB1}</Project>
-      <Name>PhonePro.Core</Name>
-    </ProjectReference>
-  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
