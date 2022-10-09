@@ -116,6 +116,9 @@
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="LinphoneSDK.Windows">
+      <Version>5.2.0-beta.14</Version>
+    </PackageReference>
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
       <Version>6.2.12</Version>
     </PackageReference>
@@ -140,10 +143,14 @@
     <Compile Include="Helpers\NavHelper.cs" />
     <Compile Include="Services\ActivationService.cs" />
     <Compile Include="Activation\DefaultActivationHandler.cs" />
+    <Compile Include="Services\CoreService.cs" />
     <Compile Include="Services\NavigationService.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />
     <Compile Include="ViewModels\PhoneBookViewModel.cs" />
     <Compile Include="ViewModels\ShellViewModel.cs" />
+    <Compile Include="Views\loading.xaml.cs">
+      <DependentUpon>loading.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\loginDialogPage.xaml.cs">
       <DependentUpon>loginDialogPage.xaml</DependentUpon>
     </Compile>
@@ -181,6 +188,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Styles\TextBlock.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\loading.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

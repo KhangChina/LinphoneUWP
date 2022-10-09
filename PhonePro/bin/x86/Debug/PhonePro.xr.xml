@@ -10,9 +10,10 @@
     </RootType>
     <RootType FullName="Microsoft.UI.Xaml.Controls.XamlControlsResources" />
     <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Content" />
       <RootProperty Name="Style" />
       <RootProperty Name="Margin" />
-      <RootProperty Name="Content" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Control">
       <RootProperty Name="Background" />
@@ -40,17 +41,23 @@
       <RootProperty Name="VerticalAlignment" />
     </RootType>
     <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Children" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Background" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ProgressRing">
+      <RootProperty Name="IsActive" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="PhonePro.Views.loading" />
     <RootType FullName="Windows.UI.Xaml.Controls.ContentDialog">
       <RootProperty Name="Title" />
       <RootProperty Name="PrimaryButtonText" />
       <RootProperty Name="CloseButtonText" />
       <RootProperty Name="Content" />
       <RootEvent Name="PrimaryButtonClick" />
-    </RootType>
-    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
-      <RootProperty Name="Margin" />
-      <RootProperty Name="Children" />
-      <RootProperty Name="Background" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
       <RootProperty Name="Orientation" />
@@ -90,6 +97,12 @@
       <RootEvent Name="Unchecked" />
     </RootType>
     <RootType FullName="PhonePro.Views.loginDialogPage" />
+    <RootType FullName="Microsoft.UI.Xaml.Controls.InfoBar">
+      <RootProperty Name="IsOpen" />
+      <RootProperty Name="Severity" />
+      <RootProperty Name="Title" />
+      <RootProperty Name="Message" />
+    </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.RichEditBox">
       <RootProperty Name="IsEnabled" />
       <RootProperty Name="Height" />

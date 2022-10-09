@@ -15,5 +15,6 @@
     <Import Project="C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\netstandard.library\2.0.3\build\netstandard2.0\NETStandard.Library.targets" Condition="Exists('C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\netstandard.library\2.0.3\build\netstandard2.0\NETStandard.Library.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.net.native.compiler\2.2.10-rel-29722-00\build\Microsoft.Net.Native.Compiler.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.net.native.compiler\2.2.10-rel-29722-00\build\Microsoft.Net.Native.Compiler.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.netcore.universalwindowsplatform\6.2.12\build\Microsoft.NetCore.UniversalWindowsPlatform.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.netcore.universalwindowsplatform\6.2.12\build\Microsoft.NetCore.UniversalWindowsPlatform.targets')" />
+    <Import Project="$(NuGetPackageRoot)linphonesdk.windows\5.2.0-beta.14\build\UAP10.0\LinphoneSDK.Windows.targets" Condition="Exists('$(NuGetPackageRoot)linphonesdk.windows\5.2.0-beta.14\build\UAP10.0\LinphoneSDK.Windows.targets')" />
   </ImportGroup>
 </Project>

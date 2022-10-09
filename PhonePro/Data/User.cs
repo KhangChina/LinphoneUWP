@@ -11,5 +11,6 @@ namespace PhonePro.Data
         public static string username = "";
         public static string password = "";
         public static string domain = "";
+        public static bool isLogin = false;
     }
 }

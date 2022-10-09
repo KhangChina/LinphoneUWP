@@ -10,6 +10,7 @@
     PrimaryButtonText="Login"
     PrimaryButtonClick="ContentDialog_PrimaryButtonClick"
     CloseButtonText="Exit"
+    
     >
     <Grid x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
         <Grid
@@ -31,7 +32,7 @@
 
                 </StackPanel>
 
-
+               
             </StackPanel>
 
         </Grid>

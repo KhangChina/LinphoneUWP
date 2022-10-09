@@ -3,7 +3,7 @@
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:controls="using:Microsoft.UI.Xaml.Controls"
     Style="{StaticResource PageStyle}"
     mc:Ignorable="d" d:DesignWidth="800" Margin="5,0,0,0" >
     <Grid x:ConnectionId='2' x:Name="ContentArea">
@@ -14,13 +14,18 @@
                 Place your content here.
             -->
             <StackPanel Orientation="Vertical" Margin="0,0,2,0">
-                <TextBox Header="User/Extension/ID" IsEnabled="False" Margin="0,0,0,5" />
-                <TextBox Header="Host Sipsever" IsEnabled="False" Margin="0,0,0,5" />
-                <TextBox Header="Enter your number call:" PlaceholderText="999" Margin="0,0,0,5" />
-                
-               
-                    
-                    <StackPanel Orientation ="Horizontal" Margin="0,0,0,5">
+                <controls:InfoBar x:ConnectionId='3' x:Name="info"
+                    IsOpen="True"
+                     Severity="Informational"
+                    Title="Title"
+                 Message="Status Sip Server !!!" />
+                <TextBox x:ConnectionId='4' x:Name="txtUser" Header="User/Extension/ID" IsEnabled="False" Margin="0,0,0,5" />
+                <TextBox x:ConnectionId='5' x:Name="txtDomain" Header="Host Sipsever" IsEnabled="False" Margin="0,0,0,5" />
+                <TextBox x:ConnectionId='6' x:Name="txtCall" Header="Enter your number call:" PlaceholderText="999" Margin="0,0,0,5" />
+
+
+              
+                <StackPanel Orientation ="Horizontal" Margin="0,0,0,5">
                         <Button Style="{StaticResource AccentButtonStyle}" Content="Call" Width="100px" Margin="0,0,5,0" />
                         <Button Style="{StaticResource AccentButtonStyle}" Content="Hang On" Width="100px" Margin="0,0,5,0" />
                         <Button Style="{StaticResource AccentButtonStyle}" Content="Recoding" Width="100px" Margin="0,0,5,0" />
@@ -28,7 +33,7 @@
                 </StackPanel>
                     
                
-                <RichEditBox x:ConnectionId='3' x:Name="log" IsEnabled="False" Height="500px" />
+                <RichEditBox x:ConnectionId='7' x:Name="log" IsEnabled="False" Height="500px" />
             </StackPanel>
         </Grid>
     </Grid>

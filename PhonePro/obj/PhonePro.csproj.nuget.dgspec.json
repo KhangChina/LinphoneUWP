@@ -28,7 +28,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.linphone.org/api/v4/projects/411/packages/nuget/index.json": {}
         },
         "frameworks": {
           "uap10.0.18362": {
@@ -39,6 +40,10 @@
       "frameworks": {
         "uap10.0.18362": {
           "dependencies": {
+            "LinphoneSDK.Windows": {
+              "target": "Package",
+              "version": "[5.2.0-beta.14, )"
+            },
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
               "version": "[6.2.12, )"

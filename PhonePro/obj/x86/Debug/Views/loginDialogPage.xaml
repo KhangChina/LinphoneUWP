@@ -10,6 +10,7 @@
     PrimaryButtonText="Login"
                                                          
     CloseButtonText="Exit"
+    
     >
     <Grid x:ConnectionId='2' x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
         <Grid
@@ -31,7 +32,7 @@
 
                 </StackPanel>
 
-
+               
             </StackPanel>
 
         </Grid>
