@@ -16,7 +16,7 @@
             Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
             
             <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Width="Auto">
-                <BitmapIcon x:ConnectionId='3' Name="SlicesIcon" UriSource="https://portal.htgsoft.com/media/khang-nguyen-xuan/HTG_Logo.png?_t=1655867586" Width="100px" ShowAsMonochrome="False"/>
+                <BitmapIcon x:ConnectionId='3' Name="SlicesIcon"  UriSource="https://portal.htgsoft.com/media/khang-nguyen-xuan/HTG_Logo.png?_t=1655867586" Width="100px" ShowAsMonochrome="False"/>
 
                 <TextBox x:ConnectionId='4' Header="Enter your domain SipServer:" PlaceholderText="192.168.100.251" Width="400px" x:Name="txtDomain"/>
 

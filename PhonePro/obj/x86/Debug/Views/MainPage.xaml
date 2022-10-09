@@ -13,7 +13,7 @@
                 The SystemControlPageBackgroundChromeLowBrush background represents where you should place your content. 
                 Place your content here.
             -->
-            <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Vertical" Margin="0,0,2,0">
                 <TextBox Header="User/Extension/ID" IsEnabled="False" Margin="0,0,0,5" />
                 <TextBox Header="Host Sipsever" IsEnabled="False" Margin="0,0,0,5" />
                 <TextBox Header="Enter your number call:" PlaceholderText="999" Margin="0,0,0,5" />

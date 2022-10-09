@@ -38,8 +38,9 @@
         Square44x44Logo="Assets\Square44x44Logo.png"
         Description="ms-resource:AppDescription"
         BackgroundColor="transparent">
-        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
-        <uap:SplashScreen Image="Assets\SplashScreen.png" />
+        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" Square71x71Logo="Assets\SmallTile.png" Square310x310Logo="Assets\LargeTile.png"/>
+        <uap:LockScreen BadgeLogo="Assets\BadgeLogo.png" Notification="badgeAndTileText"/>
+        <uap:SplashScreen Image="Assets\SplashScreen.png"/>
       </uap:VisualElements>
 
       <Extensions>
@@ -49,6 +50,12 @@
 
   <Capabilities>
     <Capability Name="internetClient" />
+    <uap:Capability Name="contacts"/>
+    <uap:Capability Name="picturesLibrary"/>
+    <uap:Capability Name="voipCall"/>
+    <uap:Capability Name="removableStorage"/>
+    <DeviceCapability Name="microphone"/>
+    <DeviceCapability Name="webcam"/>
   </Capabilities>
 
   <genTemplate:Metadata>
