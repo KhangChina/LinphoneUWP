@@ -9,7 +9,7 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7</PackageIdentityName>
-    <PackageIdentityPublisher>CN=China</PackageIdentityPublisher>
+    <PackageIdentityPublisher>CN=Khang Nguyễn</PackageIdentityPublisher>
     <IntermediateOutputPath>D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
@@ -19,24 +19,24 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>212E6DAF76D8DA6549E15876E9C21207F798056356788BBF8157E83D69CA5A6B</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7_1.0.0.0_x86__h9rhtbj2fn0m6</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7_h9rhtbj2fn0m6!App</RegisteredUserModeAppID>
+    <RegisteredManifestChecksum>0F8B85FD3219561E68A88EA763A960300C593AB188C1C21DE06C0EA23907674F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7_1.0.1.0_x86__zxxy32ae4wjra</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7_zxxy32ae4wjra!App</RegisteredUserModeAppID>
     <RegisteredPackageID>D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=China</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredPackagePublisher>CN=Khang Nguyễn</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.1.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T02:29:49.060</Modified>
+      <Modified>2022-10-10T04:15:11.823</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\PhonePro.exe">
       <PackagePath>entrypoint\PhonePro.exe</PackagePath>
-      <Modified>2022-10-10T02:29:47.751</Modified>
+      <Modified>2022-10-10T04:15:10.085</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\China\.nuget\packages\microsoft.bcl.asyncinterfaces\5.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
       <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
@@ -860,7 +860,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2022-10-07T08:44:07.382</Modified>
+      <Modified>2022-10-10T04:03:20.386</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\ahbahouaismaisbon.wav">
       <PackagePath>share\liblinphone_tester\sounds\ahbahouaismaisbon.wav</PackagePath>
@@ -1004,310 +1004,309 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\BadgeLogo.scale-400.png">
       <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.920</Modified>
+      <Modified>2022-10-10T04:03:20.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.920</Modified>
+      <Modified>2022-10-10T04:03:20.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\LargeTile.scale-125.png">
       <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.920</Modified>
+      <Modified>2022-10-10T04:03:20.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\LargeTile.scale-150.png">
       <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.920</Modified>
+      <Modified>2022-10-10T04:03:20.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.920</Modified>
+      <Modified>2022-10-10T04:03:20.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.920</Modified>
+      <Modified>2022-10-10T04:03:20.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.920</Modified>
+      <Modified>2022-10-10T04:03:20.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SmallTile.scale-125.png">
       <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.920</Modified>
+      <Modified>2022-10-10T04:03:20.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SmallTile.scale-150.png">
       <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.920</Modified>
+      <Modified>2022-10-10T04:03:20.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.920</Modified>
+      <Modified>2022-10-10T04:03:20.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.951</Modified>
+      <Modified>2022-10-10T04:03:20.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.951</Modified>
+      <Modified>2022-10-10T04:03:20.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.951</Modified>
+      <Modified>2022-10-10T04:03:20.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.951</Modified>
+      <Modified>2022-10-10T04:03:20.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.951</Modified>
+      <Modified>2022-10-10T04:03:20.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.951</Modified>
+      <Modified>2022-10-10T04:03:20.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.951</Modified>
+      <Modified>2022-10-10T04:03:20.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-125.png">
       <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-150.png">
       <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2022-10-07T08:44:06.167</Modified>
+      <Modified>2022-10-10T04:03:20.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.951</Modified>
+      <Modified>2022-10-10T04:03:20.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T01:29:26.966</Modified>
+      <Modified>2022-10-10T04:03:20.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\PhonePro.xr.xml">
       <PackagePath>PhonePro.xr.xml</PackagePath>
-      <Modified>2022-10-10T02:09:33.533</Modified>
+      <Modified>2022-10-10T04:15:09.937</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-10-10T02:29:47.635</Modified>
+      <Modified>2022-10-10T04:15:09.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\Page.xbf">
       <PackagePath>Styles\Page.xbf</PackagePath>
-      <Modified>2022-10-10T02:29:47.634</Modified>
+      <Modified>2022-10-10T04:15:09.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_Colors.xbf">
       <PackagePath>Styles\_Colors.xbf</PackagePath>
-      <Modified>2022-10-10T02:29:47.634</Modified>
+      <Modified>2022-10-10T04:15:09.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_FontSizes.xbf">
       <PackagePath>Styles\_FontSizes.xbf</PackagePath>
-      <Modified>2022-10-10T02:29:47.635</Modified>
+      <Modified>2022-10-10T04:15:09.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_Thickness.xbf">
       <PackagePath>Styles\_Thickness.xbf</PackagePath>
-      <Modified>2022-10-10T02:29:47.635</Modified>
+      <Modified>2022-10-10T04:15:09.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\TextBlock.xbf">
       <PackagePath>Styles\TextBlock.xbf</PackagePath>
-      <Modified>2022-10-10T02:29:47.635</Modified>
+      <Modified>2022-10-10T04:15:09.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\loading.xbf">
       <PackagePath>Views\loading.xbf</PackagePath>
-      <Modified>2022-10-10T02:29:47.635</Modified>
+      <Modified>2022-10-10T04:15:09.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\loginDialogPage.xbf">
       <PackagePath>Views\loginDialogPage.xbf</PackagePath>
-      <Modified>2022-10-10T02:29:47.635</Modified>
+      <Modified>2022-10-10T04:15:09.966</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2022-10-10T02:29:47.635</Modified>
+      <Modified>2022-10-10T04:15:09.966</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\PhoneBookPage.xbf">
       <PackagePath>Views\PhoneBookPage.xbf</PackagePath>
-      <Modified>2022-10-10T02:29:47.635</Modified>
+      <Modified>2022-10-10T04:15:09.966</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\ShellPage.xbf">
       <PackagePath>Views\ShellPage.xbf</PackagePath>
-      <Modified>2022-10-10T02:29:47.635</Modified>
+      <Modified>2022-10-10T04:15:09.966</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -1323,11 +1322,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-10-10T01:32:55.784</Modified>
+      <Modified>2022-10-10T04:15:10.861</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Core\PhonePro.exe">
       <PackagePath>PhonePro.exe</PackagePath>
-      <Modified>2022-10-10T02:29:49.058</Modified>
+      <Modified>2022-10-10T04:15:11.819</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

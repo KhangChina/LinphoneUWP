@@ -9,7 +9,7 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7</PackageIdentityName>
-    <PackageIdentityPublisher>CN=China</PackageIdentityPublisher>
+    <PackageIdentityPublisher>CN=Khang Nguyễn</PackageIdentityPublisher>
     <IntermediateOutputPath>D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
@@ -753,7 +753,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\BadgeLogo.scale-400.png">
       <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>

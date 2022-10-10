@@ -1,0 +1,1678 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>LIGHTUNPLATED,UNPLATED</AlternateForm>
+			<Language>EN-US</Language>
+			<Scale>200</Scale>
+			<TargetSize>256,16,24,32,48</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bctoolbox-tester.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/bctoolbox-tester.dll">
+				<Candidate type="Path">
+					<Value>bctoolbox-tester.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bctoolbox-tester.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/bctoolbox-tester.pdb">
+				<Candidate type="Path">
+					<Value>bctoolbox-tester.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bctoolbox.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/bctoolbox.dll">
+				<Candidate type="Path">
+					<Value>bctoolbox.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bctoolbox.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/bctoolbox.pdb">
+				<Candidate type="Path">
+					<Value>bctoolbox.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bcunit.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/bcunit.dll">
+				<Candidate type="Path">
+					<Value>bcunit.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bcunit.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/bcunit.pdb">
+				<Candidate type="Path">
+					<Value>bcunit.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="belcard.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/belcard.dll">
+				<Candidate type="Path">
+					<Value>belcard.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="belcard.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/belcard.pdb">
+				<Candidate type="Path">
+					<Value>belcard.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BelledonneCommunications.BelleSip.Tester.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/BelledonneCommunications.BelleSip.Tester.dll">
+				<Candidate type="Path">
+					<Value>BelledonneCommunications.BelleSip.Tester.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BelledonneCommunications.Linphone.Tester.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/BelledonneCommunications.Linphone.Tester.dll">
+				<Candidate type="Path">
+					<Value>BelledonneCommunications.Linphone.Tester.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BelledonneCommunications.Mediastreamer2.Tester.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/BelledonneCommunications.Mediastreamer2.Tester.dll">
+				<Candidate type="Path">
+					<Value>BelledonneCommunications.Mediastreamer2.Tester.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bellesip.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/bellesip.dll">
+				<Candidate type="Path">
+					<Value>bellesip.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bellesip.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/bellesip.pdb">
+				<Candidate type="Path">
+					<Value>bellesip.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="belr.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/belr.dll">
+				<Candidate type="Path">
+					<Value>belr.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="belr.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/belr.pdb">
+				<Candidate type="Path">
+					<Value>belr.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bv16.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/bv16.dll">
+				<Candidate type="Path">
+					<Value>bv16.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bv16.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/bv16.pdb">
+				<Candidate type="Path">
+					<Value>bv16.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bzrtp.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/bzrtp.dll">
+				<Candidate type="Path">
+					<Value>bzrtp.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bzrtp.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/bzrtp.pdb">
+				<Candidate type="Path">
+					<Value>bzrtp.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CsWrapper.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/CsWrapper.dll">
+				<Candidate type="Path">
+					<Value>CsWrapper.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CsWrapper.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/CsWrapper.pdb">
+				<Candidate type="Path">
+					<Value>CsWrapper.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="decaf.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/decaf.dll">
+				<Candidate type="Path">
+					<Value>decaf.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="decaf.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/decaf.pdb">
+				<Candidate type="Path">
+					<Value>decaf.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="gsm.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/gsm.dll">
+				<Candidate type="Path">
+					<Value>gsm.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="gsm.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/gsm.pdb">
+				<Candidate type="Path">
+					<Value>gsm.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="jpeg62.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/jpeg62.dll">
+				<Candidate type="Path">
+					<Value>jpeg62.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="jpeg62.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/jpeg62.pdb">
+				<Candidate type="Path">
+					<Value>jpeg62.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="jsoncpp.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/jsoncpp.dll">
+				<Candidate type="Path">
+					<Value>jsoncpp.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="liblinphone.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/liblinphone.dll">
+				<Candidate type="Path">
+					<Value>liblinphone.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="liblinphone.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/liblinphone.pdb">
+				<Candidate type="Path">
+					<Value>liblinphone.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="libmswasapi.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/libmswasapi.dll">
+				<Candidate type="Path">
+					<Value>libmswasapi.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="libmswasapi.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/libmswasapi.pdb">
+				<Candidate type="Path">
+					<Value>libmswasapi.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="libmswebrtc.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/libmswebrtc.dll">
+				<Candidate type="Path">
+					<Value>libmswebrtc.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="libmswebrtc.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/libmswebrtc.pdb">
+				<Candidate type="Path">
+					<Value>libmswebrtc.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="lime.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/lime.dll">
+				<Candidate type="Path">
+					<Value>lime.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="lime.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/lime.pdb">
+				<Candidate type="Path">
+					<Value>lime.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="mbedcrypto.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/mbedcrypto.dll">
+				<Candidate type="Path">
+					<Value>mbedcrypto.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="mbedtls.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/mbedtls.dll">
+				<Candidate type="Path">
+					<Value>mbedtls.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="mbedx509.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/mbedx509.dll">
+				<Candidate type="Path">
+					<Value>mbedx509.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="mediastreamer.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/mediastreamer.dll">
+				<Candidate type="Path">
+					<Value>mediastreamer.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="mediastreamer.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/mediastreamer.pdb">
+				<Candidate type="Path">
+					<Value>mediastreamer.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ortp.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/ortp.dll">
+				<Candidate type="Path">
+					<Value>ortp.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ortp.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/ortp.pdb">
+				<Candidate type="Path">
+					<Value>ortp.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PhonePro.xr.xml" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/PhonePro.xr.xml">
+				<Candidate type="Path">
+					<Value>PhonePro.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="soci_core_4_0.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/soci_core_4_0.dll">
+				<Candidate type="Path">
+					<Value>soci_core_4_0.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="soci_core_4_0.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/soci_core_4_0.pdb">
+				<Candidate type="Path">
+					<Value>soci_core_4_0.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="soci_sqlite3_4_0.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/soci_sqlite3_4_0.dll">
+				<Candidate type="Path">
+					<Value>soci_sqlite3_4_0.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="soci_sqlite3_4_0.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/soci_sqlite3_4_0.pdb">
+				<Candidate type="Path">
+					<Value>soci_sqlite3_4_0.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="speex.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/speex.dll">
+				<Candidate type="Path">
+					<Value>speex.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="speex.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/speex.pdb">
+				<Candidate type="Path">
+					<Value>speex.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="speexdsp.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/speexdsp.dll">
+				<Candidate type="Path">
+					<Value>speexdsp.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="speexdsp.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/speexdsp.pdb">
+				<Candidate type="Path">
+					<Value>speexdsp.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="sqlite3.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/sqlite3.dll">
+				<Candidate type="Path">
+					<Value>sqlite3.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="sqlite3.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/sqlite3.pdb">
+				<Candidate type="Path">
+					<Value>sqlite3.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="srtp2.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/srtp2.dll">
+				<Candidate type="Path">
+					<Value>srtp2.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="turbojpeg.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/turbojpeg.dll">
+				<Candidate type="Path">
+					<Value>turbojpeg.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="turbojpeg.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/turbojpeg.pdb">
+				<Candidate type="Path">
+					<Value>turbojpeg.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="xerces-c.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/xerces-c.dll">
+				<Candidate type="Path">
+					<Value>xerces-c.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="xerces-c.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/xerces-c.pdb">
+				<Candidate type="Path">
+					<Value>xerces-c.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="xml2.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/xml2.dll">
+				<Candidate type="Path">
+					<Value>xml2.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="xml2.pdb" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/xml2.pdb">
+				<Candidate type="Path">
+					<Value>xml2.pdb</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="zlib.dll" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/zlib.dll">
+				<Candidate type="Path">
+					<Value>zlib.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Assets/BadgeLogo.png"/>
+				<NamedResource name="LargeTile.png" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Assets/LargeTile.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LargeTile.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallTile.png" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Assets/SmallTile.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SmallTile.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.UI.Xaml">
+				<ResourceMapSubtree name="DensityStyles">
+					<NamedResource name="Compact.xbf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Microsoft.UI.Xaml/DensityStyles/Compact.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="share">
+				<NamedResource name="version.txt" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/version.txt">
+					<Candidate type="Path">
+						<Value>share\version.txt</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="BCunit">
+					<NamedResource name="BCUnit-List.dtd" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/BCunit/BCUnit-List.dtd">
+						<Candidate type="Path">
+							<Value>share\BCunit\BCUnit-List.dtd</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="BCUnit-List.xsl" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/BCunit/BCUnit-List.xsl">
+						<Candidate type="Path">
+							<Value>share\BCunit\BCUnit-List.xsl</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="BCUnit-Run.dtd" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/BCunit/BCUnit-Run.dtd">
+						<Candidate type="Path">
+							<Value>share\BCunit\BCUnit-Run.dtd</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="BCUnit-Run.xsl" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/BCunit/BCUnit-Run.xsl">
+						<Candidate type="Path">
+							<Value>share\BCunit\BCUnit-Run.xsl</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Memory-Dump.dtd" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/BCunit/Memory-Dump.dtd">
+						<Candidate type="Path">
+							<Value>share\BCunit\Memory-Dump.dtd</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Memory-Dump.xsl" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/BCunit/Memory-Dump.xsl">
+						<Candidate type="Path">
+							<Value>share\BCunit\Memory-Dump.xsl</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="belcard_tester">
+					<ResourceMapSubtree name="vcards">
+						<NamedResource name="foldtest.vcf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belcard_tester/vcards/foldtest.vcf">
+							<Candidate type="Path">
+								<Value>share\belcard_tester\vcards\foldtest.vcf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="unfoldtest.vcf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belcard_tester/vcards/unfoldtest.vcf">
+							<Candidate type="Path">
+								<Value>share\belcard_tester\vcards\unfoldtest.vcf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="vcard.vcf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belcard_tester/vcards/vcard.vcf">
+							<Candidate type="Path">
+								<Value>share\belcard_tester\vcards\vcard.vcf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="vcards.vcf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belcard_tester/vcards/vcards.vcf">
+							<Candidate type="Path">
+								<Value>share\belcard_tester\vcards\vcards.vcf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="belle_sip_tester">
+					<NamedResource name="tester_hosts" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belle_sip_tester/tester_hosts">
+						<Candidate type="Path">
+							<Value>share\belle_sip_tester\tester_hosts</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="belr">
+					<ResourceMapSubtree name="grammars">
+						<NamedResource name="belr-grammar-example.blr" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belr/grammars/belr-grammar-example.blr">
+							<Candidate type="Path">
+								<Value>share\belr\grammars\belr-grammar-example.blr</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="cpim_grammar" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belr/grammars/cpim_grammar">
+							<Candidate type="Path">
+								<Value>share\belr\grammars\cpim_grammar</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ics_grammar" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belr/grammars/ics_grammar">
+							<Candidate type="Path">
+								<Value>share\belr\grammars\ics_grammar</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="identity_grammar" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belr/grammars/identity_grammar">
+							<Candidate type="Path">
+								<Value>share\belr\grammars\identity_grammar</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="sdp_grammar" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belr/grammars/sdp_grammar">
+							<Candidate type="Path">
+								<Value>share\belr\grammars\sdp_grammar</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="vcard_grammar" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belr/grammars/vcard_grammar">
+							<Candidate type="Path">
+								<Value>share\belr\grammars\vcard_grammar</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="belr-tester">
+					<ResourceMapSubtree name="res">
+						<NamedResource name="basicgrammar.txt" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belr-tester/res/basicgrammar.txt">
+							<Candidate type="Path">
+								<Value>share\belr-tester\res\basicgrammar.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="register.txt" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belr-tester/res/register.txt">
+							<Candidate type="Path">
+								<Value>share\belr-tester\res\register.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="response.txt" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belr-tester/res/response.txt">
+							<Candidate type="Path">
+								<Value>share\belr-tester\res\response.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="sipgrammar.txt" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belr-tester/res/sipgrammar.txt">
+							<Candidate type="Path">
+								<Value>share\belr-tester\res\sipgrammar.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="vcardgrammar.txt" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/belr-tester/res/vcardgrammar.txt">
+							<Candidate type="Path">
+								<Value>share\belr-tester\res\vcardgrammar.txt</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="doc">
+					<ResourceMapSubtree name="libjpeg-turbo">
+						<NamedResource name="example.txt" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/doc/libjpeg-turbo/example.txt">
+							<Candidate type="Path">
+								<Value>share\doc\libjpeg-turbo\example.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="libjpeg.txt" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/doc/libjpeg-turbo/libjpeg.txt">
+							<Candidate type="Path">
+								<Value>share\doc\libjpeg-turbo\libjpeg.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="LICENSE.md" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/doc/libjpeg-turbo/LICENSE.md">
+							<Candidate type="Path">
+								<Value>share\doc\libjpeg-turbo\LICENSE.md</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="README.ijg" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/doc/libjpeg-turbo/README.ijg">
+							<Candidate type="Path">
+								<Value>share\doc\libjpeg-turbo\README.ijg</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="README.md" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/doc/libjpeg-turbo/README.md">
+							<Candidate type="Path">
+								<Value>share\doc\libjpeg-turbo\README.md</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="structure.txt" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/doc/libjpeg-turbo/structure.txt">
+							<Candidate type="Path">
+								<Value>share\doc\libjpeg-turbo\structure.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="tjexample.c" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/doc/libjpeg-turbo/tjexample.c">
+							<Candidate type="Path">
+								<Value>share\doc\libjpeg-turbo\tjexample.c</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="usage.txt" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/doc/libjpeg-turbo/usage.txt">
+							<Candidate type="Path">
+								<Value>share\doc\libjpeg-turbo\usage.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="wizard.txt" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/doc/libjpeg-turbo/wizard.txt">
+							<Candidate type="Path">
+								<Value>share\doc\libjpeg-turbo\wizard.txt</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ortp-5.2.0">
+						<NamedResource name="AUTHORS.md" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/doc/ortp-5.2.0/AUTHORS.md">
+							<Candidate type="Path">
+								<Value>share\doc\ortp-5.2.0\AUTHORS.md</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="CHANGELOG.md" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/doc/ortp-5.2.0/CHANGELOG.md">
+							<Candidate type="Path">
+								<Value>share\doc\ortp-5.2.0\CHANGELOG.md</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="LICENSE.txt" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/doc/ortp-5.2.0/LICENSE.txt">
+							<Candidate type="Path">
+								<Value>share\doc\ortp-5.2.0\LICENSE.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="README.md" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/doc/ortp-5.2.0/README.md">
+							<Candidate type="Path">
+								<Value>share\doc\ortp-5.2.0\README.md</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="images">
+					<NamedResource name="nowebcamCIF.jpg" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/images/nowebcamCIF.jpg">
+						<Candidate type="Path">
+							<Value>share\images\nowebcamCIF.jpg</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="liblinphone_tester">
+					<NamedResource name="local_tester_hosts" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/local_tester_hosts">
+						<Candidate type="Path">
+							<Value>share\liblinphone_tester\local_tester_hosts</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="tester_hosts" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/tester_hosts">
+						<Candidate type="Path">
+							<Value>share\liblinphone_tester\tester_hosts</Value>
+						</Candidate>
+					</NamedResource>
+					<ResourceMapSubtree name="certificates">
+						<ResourceMapSubtree name="altname">
+							<NamedResource name="agent.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/altname/agent.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\altname\agent.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="cafile.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/altname/cafile.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\altname\cafile.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="openssl-altname.cnf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/altname/openssl-altname.cnf">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\altname\openssl-altname.cnf</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="client">
+							<NamedResource name="cert.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/cert.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\cert.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="cert2-signed-by-other-ca.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/cert2-signed-by-other-ca.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\cert2-signed-by-other-ca.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="cert2.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/cert2.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\cert2.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="cert3.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/cert3.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\cert3.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="key.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/key.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\key.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="key2-signed-by-other-ca.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/key2-signed-by-other-ca.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\key2-signed-by-other-ca.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="key2.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/key2.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\key2.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="key3.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/key3.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\key3.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="user1_cert.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/user1_cert.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\user1_cert.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="user1_key.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/user1_key.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\user1_key.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="user1_multiple_aliases_cert.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/user1_multiple_aliases_cert.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\user1_multiple_aliases_cert.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="user1_multiple_aliases_key.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/user1_multiple_aliases_key.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\user1_multiple_aliases_key.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="user2_cert.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/user2_cert.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\user2_cert.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="user2_CN_cert.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/user2_CN_cert.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\user2_CN_cert.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="user2_CN_key.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/user2_CN_key.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\user2_CN_key.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="user2_key.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/user2_key.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\user2_key.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="user2_revoked_cert.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/user2_revoked_cert.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\user2_revoked_cert.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="user2_revoked_key.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/client/user2_revoked_key.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\client\user2_revoked_key.pem</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="cn">
+							<NamedResource name="agent.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/cn/agent.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\cn\agent.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="cafile.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/cn/cafile.pem">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\cn\cafile.pem</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="openssl-cn.cnf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/certificates/cn/openssl-cn.cnf">
+								<Candidate type="Path">
+									<Value>share\liblinphone_tester\certificates\cn\openssl-cn.cnf</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="db">
+						<NamedResource name="call-history.db" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/db/call-history.db">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\db\call-history.db</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="chatrooms.db" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/db/chatrooms.db">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\db\chatrooms.db</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="friends.db" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/db/friends.db">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\db\friends.db</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="linphone.db" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/db/linphone.db">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\db\linphone.db</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="messages.db" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/db/messages.db">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\db\messages.db</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="images">
+						<NamedResource name="linphone.svg" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/images/linphone.svg">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\images\linphone.svg</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="linphonesiteqr.jpg" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/images/linphonesiteqr.jpg">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\images\linphonesiteqr.jpg</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="linphonesiteqr_captured.jpg" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/images/linphonesiteqr_captured.jpg">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\images\linphonesiteqr_captured.jpg</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="nowebcamCIF.jpg" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/images/nowebcamCIF.jpg">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\images\nowebcamCIF.jpg</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="nowebcamVGA.jpg" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/images/nowebcamVGA.jpg">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\images\nowebcamVGA.jpg</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="rcfiles">
+						<NamedResource name="account_creator_flexiapi_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/account_creator_flexiapi_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\account_creator_flexiapi_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="account_creator_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/account_creator_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\account_creator_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="arthur_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/arthur_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\arthur_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="assistant_create.rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/assistant_create.rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\assistant_create.rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="carddav_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/carddav_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\carddav_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="chloe_lime_x3dh_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/chloe_lime_x3dh_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\chloe_lime_x3dh_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="chloe_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/chloe_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\chloe_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="claire_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/claire_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\claire_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="claire_sips_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/claire_sips_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\claire_sips_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="conference_focus_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/conference_focus_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\conference_focus_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="empty_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/empty_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\empty_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="friends_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/friends_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\friends_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="groupchat_lime_x3dh_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/groupchat_lime_x3dh_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\groupchat_lime_x3dh_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="groupchat_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/groupchat_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\groupchat_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="invalid_friends_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/invalid_friends_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\invalid_friends_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="invalid_friends_xml" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/invalid_friends_xml">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\invalid_friends_xml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="laure_call_logs_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/laure_call_logs_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\laure_call_logs_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="laure_lime_x3dh_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/laure_lime_x3dh_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\laure_lime_x3dh_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="laure_rc_udp" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/laure_rc_udp">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\laure_rc_udp</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="laure_tcp_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/laure_tcp_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\laure_tcp_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="lise_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/lise_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\lise_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie2_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie2_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie2_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_bodyless_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_bodyless_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_bodyless_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_dependent_proxy_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_dependent_proxy_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_dependent_proxy_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_dtls_srtp_immediate_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_dtls_srtp_immediate_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_dtls_srtp_immediate_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_dual_proxy_2_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_dual_proxy_2_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_dual_proxy_2_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_dual_proxy_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_dual_proxy_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_dual_proxy_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_early_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_early_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_early_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_h264_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_h264_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_h264_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_lime_x3dh_no_server_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_lime_x3dh_no_server_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_lime_x3dh_no_server_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_lime_x3dh_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_lime_x3dh_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_lime_x3dh_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_nat64_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_nat64_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_nat64_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_os_defined_rtp_ports_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_os_defined_rtp_ports_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_os_defined_rtp_ports_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_quality_reporting_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_quality_reporting_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_quality_reporting_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_rc_call_logs_migration" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_rc_call_logs_migration">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_rc_call_logs_migration</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_rc_rtcp_xr" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_rc_rtcp_xr">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_rc_rtcp_xr</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_remote_404_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_remote_404_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_remote_404_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_remote_default_values_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_remote_default_values_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_remote_default_values_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_remote_https_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_remote_https_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_remote_https_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_remote_invalid_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_remote_invalid_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_remote_invalid_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_remote_invalid_uri_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_remote_invalid_uri_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_remote_invalid_uri_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_remote_localfile2_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_remote_localfile2_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_remote_localfile2_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_remote_localfile_android_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_remote_localfile_android_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_remote_localfile_android_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_remote_localfile_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_remote_localfile_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_remote_localfile_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_remote_localfile_win10_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_remote_localfile_win10_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_remote_localfile_win10_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_remote_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_remote_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_remote_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_rtp_port_range_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_rtp_port_range_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_rtp_port_range_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_session_timers_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_session_timers_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_session_timers_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_sips_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_sips_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_sips_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_transient_remote_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_transient_remote_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_transient_remote_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_v4proxy_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_v4proxy_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_v4proxy_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="marie_well_known_port_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/marie_well_known_port_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\marie_well_known_port_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="michelle_lime_x3dh_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/michelle_lime_x3dh_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\michelle_lime_x3dh_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="michelle_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/michelle_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\michelle_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="michelle_rc_udp" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/michelle_rc_udp">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\michelle_rc_udp</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="multi_account_lime_x3dh_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/multi_account_lime_x3dh_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\multi_account_lime_x3dh_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="multi_account_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/multi_account_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\multi_account_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_alt_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_alt_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_alt_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_as_friend_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_as_friend_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_as_friend_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_dtls_srtp_immediate_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_dtls_srtp_immediate_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_dtls_srtp_immediate_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_external_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_external_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_external_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_h264_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_h264_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_h264_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_lime_x3dh_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_lime_x3dh_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_lime_x3dh_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_nat64_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_nat64_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_nat64_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_os_defined_rtp_ports_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_os_defined_rtp_ports_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_os_defined_rtp_ports_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_rc_rtcp_xr" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_rc_rtcp_xr">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_rc_rtcp_xr</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_rtp_port_range_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_rtp_port_range_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_rtp_port_range_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_sips_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_sips_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_sips_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_tcp_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_tcp_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_tcp_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_tls_client_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_tls_client_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_tls_client_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_tunnel_verify_server_certificate_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_tunnel_verify_server_certificate_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_tunnel_verify_server_certificate_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_v4proxy_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_v4proxy_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_v4proxy_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_well_known_port_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_well_known_port_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_well_known_port_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pauline_wild_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/pauline_wild_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\pauline_wild_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="remote_zero_length_params_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/remote_zero_length_params_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\remote_zero_length_params_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="stun_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/stun_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\stun_rc</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="zero_length_params_rc" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/rcfiles/zero_length_params_rc">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\rcfiles\zero_length_params_rc</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="sipp">
+						<NamedResource name="call_invite_200ok_without_contact_header.xml" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sipp/call_invite_200ok_without_contact_header.xml">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sipp\call_invite_200ok_without_contact_header.xml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="call_with_audio_mline_before_video_in_sdp.xml" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sipp/call_with_audio_mline_before_video_in_sdp.xml">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sipp\call_with_audio_mline_before_video_in_sdp.xml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="call_with_multiple_audio_mline_in_sdp.xml" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sipp/call_with_multiple_audio_mline_in_sdp.xml">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sipp\call_with_multiple_audio_mline_in_sdp.xml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="call_with_multiple_video_mline_in_sdp.xml" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sipp/call_with_multiple_video_mline_in_sdp.xml">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sipp\call_with_multiple_video_mline_in_sdp.xml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="call_with_transfer_incoming_ringing_call.xml" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sipp/call_with_transfer_incoming_ringing_call.xml">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sipp\call_with_transfer_incoming_ringing_call.xml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="call_with_video_mline_before_audio_in_sdp.xml" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sipp/call_with_video_mline_before_audio_in_sdp.xml">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sipp\call_with_video_mline_before_audio_in_sdp.xml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="sip_update_within_icoming_reinvite_with_no_sdp.xml" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sipp/sip_update_within_icoming_reinvite_with_no_sdp.xml">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sipp\sip_update_within_icoming_reinvite_with_no_sdp.xml</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="sounds">
+						<NamedResource name="ahbahouaismaisbon.wav" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sounds/ahbahouaismaisbon.wav">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sounds\ahbahouaismaisbon.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="continuous_48000_stereo.wav" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sounds/continuous_48000_stereo.wav">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sounds\continuous_48000_stereo.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="hello44100.wav" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sounds/hello44100.wav">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sounds\hello44100.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="hello8000.mkv" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sounds/hello8000.mkv">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sounds\hello8000.mkv</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="hello8000.wav" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sounds/hello8000.wav">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sounds\hello8000.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="hello8000_mkv_ref.wav" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sounds/hello8000_mkv_ref.wav">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sounds\hello8000_mkv_ref.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="oldphone.wav" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sounds/oldphone.wav">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sounds\oldphone.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ringback.wav" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sounds/ringback.wav">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sounds\ringback.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="sintel_trailer_opus_h264.mkv" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sounds/sintel_trailer_opus_h264.mkv">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sounds\sintel_trailer_opus_h264.mkv</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="sintel_trailer_opus_vp8.mkv" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sounds/sintel_trailer_opus_vp8.mkv">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sounds\sintel_trailer_opus_vp8.mkv</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="sintel_trailer_pcmu_h264.mkv" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sounds/sintel_trailer_pcmu_h264.mkv">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sounds\sintel_trailer_pcmu_h264.mkv</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="vrroom.wav" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/sounds/vrroom.wav">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\sounds\vrroom.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="vcards">
+						<NamedResource name="thousand_vcards.vcf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/vcards/thousand_vcards.vcf">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\vcards\thousand_vcards.vcf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="vcards.vcf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/liblinphone_tester/vcards/vcards.vcf">
+							<Candidate type="Path">
+								<Value>share\liblinphone_tester\vcards\vcards.vcf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="lime_tester">
+					<ResourceMapSubtree name="data">
+						<NamedResource name="cacert.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/lime_tester/data/cacert.pem">
+							<Candidate type="Path">
+								<Value>share\lime_tester\data\cacert.pem</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pattern_getSelfIk.C25519.sqlite3" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/lime_tester/data/pattern_getSelfIk.C25519.sqlite3">
+							<Candidate type="Path">
+								<Value>share\lime_tester\data\pattern_getSelfIk.C25519.sqlite3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pattern_getSelfIk.C448.sqlite3" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/lime_tester/data/pattern_getSelfIk.C448.sqlite3">
+							<Candidate type="Path">
+								<Value>share\lime_tester\data\pattern_getSelfIk.C448.sqlite3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="sip5.linphone.org.selfsigned-cert.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/lime_tester/data/sip5.linphone.org.selfsigned-cert.pem">
+							<Candidate type="Path">
+								<Value>share\lime_tester\data\sip5.linphone.org.selfsigned-cert.pem</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="x3dh-cert.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/lime_tester/data/x3dh-cert.pem">
+							<Candidate type="Path">
+								<Value>share\lime_tester\data\x3dh-cert.pem</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Linphone">
+					<NamedResource name="rootca.pem" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/Linphone/rootca.pem">
+						<Candidate type="Path">
+							<Value>share\Linphone\rootca.pem</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="linphonecs">
+					<NamedResource name="LinphoneWrapper.cs" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/linphonecs/LinphoneWrapper.cs">
+						<Candidate type="Path">
+							<Value>share\linphonecs\LinphoneWrapper.cs</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="mbedtls">
+					<NamedResource name="mbedcryptoTarget-relwithdebinfo.cmake" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/mbedtls/mbedcryptoTarget-relwithdebinfo.cmake">
+						<Candidate type="Path">
+							<Value>share\mbedtls\mbedcryptoTarget-relwithdebinfo.cmake</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="mbedcryptoTarget.cmake" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/mbedtls/mbedcryptoTarget.cmake">
+						<Candidate type="Path">
+							<Value>share\mbedtls\mbedcryptoTarget.cmake</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="mbedtlsTarget-relwithdebinfo.cmake" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/mbedtls/mbedtlsTarget-relwithdebinfo.cmake">
+						<Candidate type="Path">
+							<Value>share\mbedtls\mbedtlsTarget-relwithdebinfo.cmake</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="mbedtlsTarget.cmake" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/mbedtls/mbedtlsTarget.cmake">
+						<Candidate type="Path">
+							<Value>share\mbedtls\mbedtlsTarget.cmake</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="mbedx509Target-relwithdebinfo.cmake" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/mbedtls/mbedx509Target-relwithdebinfo.cmake">
+						<Candidate type="Path">
+							<Value>share\mbedtls\mbedx509Target-relwithdebinfo.cmake</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="mbedx509Target.cmake" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/mbedtls/mbedx509Target.cmake">
+						<Candidate type="Path">
+							<Value>share\mbedtls\mbedx509Target.cmake</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="sounds">
+					<ResourceMapSubtree name="linphone">
+						<NamedResource name="dont_wait_too_long.mkv" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/sounds/linphone/dont_wait_too_long.mkv">
+							<Candidate type="Path">
+								<Value>share\sounds\linphone\dont_wait_too_long.mkv</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="hello16000.wav" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/sounds/linphone/hello16000.wav">
+							<Candidate type="Path">
+								<Value>share\sounds\linphone\hello16000.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="hello8000.wav" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/sounds/linphone/hello8000.wav">
+							<Candidate type="Path">
+								<Value>share\sounds\linphone\hello8000.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="incoming_chat.wav" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/sounds/linphone/incoming_chat.wav">
+							<Candidate type="Path">
+								<Value>share\sounds\linphone\incoming_chat.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ringback.wav" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/sounds/linphone/ringback.wav">
+							<Candidate type="Path">
+								<Value>share\sounds\linphone\ringback.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="silence.mkv" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/sounds/linphone/silence.mkv">
+							<Candidate type="Path">
+								<Value>share\sounds\linphone\silence.mkv</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="toy-mono.wav" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/sounds/linphone/toy-mono.wav">
+							<Candidate type="Path">
+								<Value>share\sounds\linphone\toy-mono.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<ResourceMapSubtree name="rings">
+							<NamedResource name="four_hands_together.mkv" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/sounds/linphone/rings/four_hands_together.mkv">
+								<Candidate type="Path">
+									<Value>share\sounds\linphone\rings\four_hands_together.mkv</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="house_keeping.mkv" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/sounds/linphone/rings/house_keeping.mkv">
+								<Candidate type="Path">
+									<Value>share\sounds\linphone\rings\house_keeping.mkv</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="its_a_game.mkv" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/sounds/linphone/rings/its_a_game.mkv">
+								<Candidate type="Path">
+									<Value>share\sounds\linphone\rings\its_a_game.mkv</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="leaving_dreams.mkv" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/sounds/linphone/rings/leaving_dreams.mkv">
+								<Candidate type="Path">
+									<Value>share\sounds\linphone\rings\leaving_dreams.mkv</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="notes_of_the_optimistic.mkv" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/sounds/linphone/rings/notes_of_the_optimistic.mkv">
+								<Candidate type="Path">
+									<Value>share\sounds\linphone\rings\notes_of_the_optimistic.mkv</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="oldphone-mono.wav" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/sounds/linphone/rings/oldphone-mono.wav">
+								<Candidate type="Path">
+									<Value>share\sounds\linphone\rings\oldphone-mono.wav</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="soft_as_snow.mkv" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/share/sounds/linphone/rings/soft_as_snow.mkv">
+								<Candidate type="Path">
+									<Value>share\sounds\linphone\rings\soft_as_snow.mkv</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Styles">
+				<NamedResource name="Page.xbf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Styles/Page.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextBlock.xbf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Styles/TextBlock.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="_Colors.xbf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Styles/_Colors.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="_FontSizes.xbf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Styles/_FontSizes.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="_Thickness.xbf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Styles/_Thickness.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Views">
+				<NamedResource name="loading.xbf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Views/loading.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="loginDialogPage.xbf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Views/loginDialogPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MainPage.xbf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Views/MainPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PhoneBookPage.xbf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Views/PhoneBookPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ShellPage.xbf" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/Views/ShellPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Xaml.Interactions">
+			<ResourceMapSubtree name="Strings">
+				<NamedResource name="CallMethodActionValidMethodNotFoundExceptionMessage" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactions/Strings/CallMethodActionValidMethodNotFoundExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot find method named {0} on object of type {1} that matches the expected signature.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotAttachBehaviorMultipleTimesExceptionMessage" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactions/Strings/CannotAttachBehaviorMultipleTimesExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>An instance of a behavior cannot be attached to more than one object at a time.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotFindEventNameExceptionMessage" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactions/Strings/CannotFindEventNameExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot find an event named {0} on type {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChangePropertyActionCannotFindPropertyNameExceptionMessage" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactions/Strings/ChangePropertyActionCannotFindPropertyNameExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot find a property named {0} on type {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChangePropertyActionCannotSetValueExceptionMessage" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactions/Strings/ChangePropertyActionCannotSetValueExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot assign value of type {0} to property {1} of type {2}. The {1} property can be assigned only values of type {2}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChangePropertyActionPropertyIsReadOnlyExceptionMessage" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactions/Strings/ChangePropertyActionPropertyIsReadOnlyExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Property {0} defined by type {1} does not expose a set method and therefore cannot be modified.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EventNotSupportedExceptionMessage" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactions/Strings/EventNotSupportedExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Event {0} is not supported. Consider implementing a custom IBehavior to respond to this event.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GoToStateActionTargetHasNoStateGroups" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactions/Strings/GoToStateActionTargetHasNoStateGroups">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Target {0} does not define any VisualStateGroups.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidLeftOperand" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactions/Strings/InvalidLeftOperand">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Binding property of type {0} cannot be used with operator {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidOperands" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactions/Strings/InvalidOperands">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Binding property of type {0} and Value property of type {1} cannot be used with operator {2}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRightOperand" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactions/Strings/InvalidRightOperand">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Value property of type {0} cannot be used with operator {1}.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Xaml.Interactivity">
+			<ResourceMapSubtree name="Strings">
+				<NamedResource name="CannotAttachBehaviorMultipleTimesExceptionMessage" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactivity/Strings/CannotAttachBehaviorMultipleTimesExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>An instance of a behavior cannot be attached to more than one object at a time.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DuplicateBehaviorInCollectionExceptionMessage" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactivity/Strings/DuplicateBehaviorInCollectionExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot add an instance of a behavior to a BehaviorCollection more than once.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAssociatedObjectExceptionMessage" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactivity/Strings/InvalidAssociatedObjectExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AssociatedObject is of type {0} but should be of type {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonActionAddedToActionCollectionExceptionMessage" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactivity/Strings/NonActionAddedToActionCollectionExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Only IAction types are supported in an ActionCollection.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonBehaviorAddedToBehaviorCollectionExceptionMessage" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Microsoft.Xaml.Interactivity/Strings/NonBehaviorAddedToBehaviorCollectionExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Only IBehavior types are supported in a BehaviorCollection.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="AppDescription" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Resources/AppDescription">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>PhonePro</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AppDisplayName" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Resources/AppDisplayName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>PhonePro</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Shell_loginDialog">
+				<NamedResource name="Content" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Resources/Shell_loginDialog/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>loginDialog</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Shell_Main">
+				<NamedResource name="Content" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Resources/Shell_Main/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Main</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Shell_PhoneBook">
+				<NamedResource name="Content" uri="ms-resource://D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7/Resources/Shell_PhoneBook/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>PhoneBook</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

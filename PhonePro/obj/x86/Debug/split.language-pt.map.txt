@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-pt"
+"ResourceDimensions"		"language-pt-br"
+
+[Files]
+"D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Debug\split.language-pt.pri"			"resources.pri"

@@ -45,6 +45,7 @@ namespace PhonePro.Views
         }
         private void OnCallStateChanged(Core core, Call call, CallState state, string message)
         {
+            loadingName.Visibility = Visibility.Collapsed;
             info.Severity = InfoBarSeverity.Warning;
             info.Message = "Your call state is : " + state.ToString();
             switch (state)
@@ -114,6 +115,7 @@ namespace PhonePro.Views
         }
         private void EndingCallGuiUpdates()
         {
+
             info.Severity = InfoBarSeverity.Informational;
             info.Message = "Free time";
             btnCall.IsEnabled = true;
@@ -136,6 +138,8 @@ namespace PhonePro.Views
 
         private void btnCall_Click(object sender, Windows.UI.Xaml.RoutedEventArgs e)
         {
+            btnCall.IsEnabled = false;
+            loadingName.Visibility = Visibility.Visible;
             CoreService.Call(txtCall.Text);
         }
 

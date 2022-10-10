@@ -1,0 +1,2 @@
+MainPackage=D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\PhonePro_1.0.1.0_x86_Debug.msix
+SymbolPackage=D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Debug\Symbols\PhonePro_1.0.1.0_x86_Debug.appxsym

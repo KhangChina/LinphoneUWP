@@ -27,6 +27,7 @@
               
                 <StackPanel Orientation ="Horizontal" Margin="0,0,0,5">
                     <Button Style="{StaticResource AccentButtonStyle}" Click="btnCall_Click" x:Name="btnCall" Content="Call" Width="100px" Margin="0,0,5,0" />
+                    <ProgressRing x:Name="loadingName"  Visibility="Collapsed" IsActive="True" />
                     <Button Style="{StaticResource AccentButtonStyle}" Click="btnHangUp_Click" x:Name="btnHangUp" Content="Hang Up" Width="100px" Margin="0,0,5,0" IsEnabled="False" />
                     <Button Style="{StaticResource AccentButtonStyle}" x:Name="btnVideoCall" Content="Video Call" Width="100px" Margin="0,0,5,0" IsEnabled="False" />
                     <Button Style="{StaticResource AccentButtonStyle}" x:Name="btnSound" Content="Switch off Sound" Margin="0,0,5,0" IsEnabled="False" />

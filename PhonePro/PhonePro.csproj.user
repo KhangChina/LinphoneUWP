@@ -9,5 +9,9 @@
     <AppIconSource>D:\Projects\C#\LinphoneUWP\PhonePro\Assets\HTG_Logo.png</AppIconSource>
     <SplashScreenSource>D:\Projects\C#\LinphoneUWP\PhonePro\Assets\HTG_Logo.png</SplashScreenSource>
     <PackageLogoSource>D:\Projects\C#\LinphoneUWP\PhonePro\Assets\HTG_Logo.png</PackageLogoSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
   </PropertyGroup>
 </Project>

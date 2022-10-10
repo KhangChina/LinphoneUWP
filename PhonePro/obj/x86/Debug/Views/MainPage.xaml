@@ -27,10 +27,11 @@
               
                 <StackPanel Orientation ="Horizontal" Margin="0,0,0,5">
                     <Button x:ConnectionId='8' Style="{StaticResource AccentButtonStyle}"                       x:Name="btnCall" Content="Call" Width="100px" Margin="0,0,5,0" />
-                    <Button x:ConnectionId='9' Style="{StaticResource AccentButtonStyle}"                         x:Name="btnHangUp" Content="Hang Up" Width="100px" Margin="0,0,5,0" IsEnabled="False" />
-                    <Button x:ConnectionId='10' Style="{StaticResource AccentButtonStyle}" x:Name="btnVideoCall" Content="Video Call" Width="100px" Margin="0,0,5,0" IsEnabled="False" />
-                    <Button x:ConnectionId='11' Style="{StaticResource AccentButtonStyle}" x:Name="btnSound" Content="Switch off Sound" Margin="0,0,5,0" IsEnabled="False" />
-                    <Button x:ConnectionId='12' Style="{StaticResource AccentButtonStyle}" x:Name="btnMic" Content="Mute" Margin="0,0,5,0" IsEnabled="False" />
+                    <ProgressRing x:ConnectionId='9' x:Name="loadingName"  Visibility="Collapsed" IsActive="True" />
+                    <Button x:ConnectionId='10' Style="{StaticResource AccentButtonStyle}"                         x:Name="btnHangUp" Content="Hang Up" Width="100px" Margin="0,0,5,0" IsEnabled="False" />
+                    <Button x:ConnectionId='11' Style="{StaticResource AccentButtonStyle}" x:Name="btnVideoCall" Content="Video Call" Width="100px" Margin="0,0,5,0" IsEnabled="False" />
+                    <Button x:ConnectionId='12' Style="{StaticResource AccentButtonStyle}" x:Name="btnSound" Content="Switch off Sound" Margin="0,0,5,0" IsEnabled="False" />
+                    <Button x:ConnectionId='13' Style="{StaticResource AccentButtonStyle}" x:Name="btnMic" Content="Mute" Margin="0,0,5,0" IsEnabled="False" />
                 </StackPanel>
                     
                

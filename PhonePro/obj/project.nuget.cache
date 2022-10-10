@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+dQy+hHL7Gm3W2Csh9+TZsbicn7+KlyFSQmr8rrPBzf79UUbw3VPEDo6T3QgwakzHZAmnmvSTQBq6wZC1P5f1A==",
+  "dgSpecHash": "vCoFuTB7EMXQhfwq6gHaqXX8qT2ccih5kW21Ajul0v9BpwEnMY5G/bjiFDPkTDzqKo9a3u+rLAjgLsvKBnP/nA==",
   "success": true,
   "projectFilePath": "D:\\Project\\Windows 10 App\\LinphoneUWP\\PhonePro\\PhonePro.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,7 @@
     "C:\\Users\\China\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.0.2\\microsoft.toolkit.mvvm.7.0.2.nupkg.sha512",
     "C:\\Users\\China\\.nuget\\packages\\microsoft.ui.xaml\\2.5.0\\microsoft.ui.xaml.2.5.0.nupkg.sha512",
     "C:\\Users\\China\\.nuget\\packages\\microsoft.xaml.behaviors.uwp.managed\\2.0.1\\microsoft.xaml.behaviors.uwp.managed.2.0.1.nupkg.sha512",
-    "C:\\Users\\China\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\China\\.nuget\\packages\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform\\6.2.12\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform.6.2.12.nupkg.sha512",
     "C:\\Users\\China\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.compiler\\2.2.10-rel-29722-00\\runtime.win10-arm.microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Users\\China\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.sharedlibrary\\2.2.8-rel-29722-00\\runtime.win10-arm.microsoft.net.native.sharedlibrary.2.2.8-rel-29722-00.nupkg.sha512",

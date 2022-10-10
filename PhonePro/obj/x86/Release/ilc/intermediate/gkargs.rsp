@@ -1,0 +1,12 @@
+﻿"D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Release\ilc\in\CsWrapper.dll"
+"D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Release\ilc\in\Microsoft.Toolkit.Mvvm.dll"
+"D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Release\ilc\in\Microsoft.Xaml.Interactions.dll"
+"D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Release\ilc\in\Microsoft.Xaml.Interactivity.dll"
+"D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Release\ilc\in\PhonePro.exe"
+/Lib:"D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Release\ilc\in"
+/Lib:"C:\Users\China\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.10-rel-29722-00\tools\x86\ilc\lib\Private"
+/WinMD:"D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Release\ilc\in\WinMetadata\Microsoft.UI.Xaml.winmd"
+/WinMD:"D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{\"IsOptedIn\":true,\"HostName\":\"Dev14\",\"AppInsightsInstrumentationKey\":\"f144292e-e3b2-4011-ac90-20e5c03fbce5\",\"AsimovInstrumentationKey\":\"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\",\"AppId\":1001,\"UserId\":\"ee443259-8fc1-490c-ba8a-88e260b601a7\",\"Id\":\"6dc9b63e-89f2-4504-8e3b-44a88f9ab695\",\"ProcessStartTime\":638009714231871483,\"SkuName\":\"VS_Pro\",\"VSExeVersion\":\"17.3.32922.545\",\"BucketFiltersToEnableWatsonForFaults\":[],\"BucketFiltersToAddDumpsToFaults\":[]}"
+/RdXmlPath:"C:\Users\China\.nuget\packages\microsoft.net.native.compiler\2.2.10-rel-29722-00\tools\LibraryXML"
+/RunOnlyPreDR

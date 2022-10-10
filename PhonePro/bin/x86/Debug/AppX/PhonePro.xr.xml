@@ -50,6 +50,7 @@
       <RootProperty Name="IsActive" />
       <RootProperty Name="Width" />
       <RootProperty Name="Height" />
+      <RootProperty Name="Visibility" />
     </RootType>
     <RootType FullName="PhonePro.Views.loading" />
     <RootType FullName="Windows.UI.Xaml.Controls.ContentDialog">

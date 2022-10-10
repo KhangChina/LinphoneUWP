@@ -1,0 +1,6 @@
+MainPackage=D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x64\Debug\PhonePro_1.0.1.0_x64_Debug.msix
+SymbolPackage=D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x64\Debug\Symbols\PhonePro_1.0.1.0_x64_Debug.appxsym
+ResourcePack=D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x64\Debug\PhonePro_1.0.1.0_scale-100.msix
+ResourcePack=D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x64\Debug\PhonePro_1.0.1.0_scale-125.msix
+ResourcePack=D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x64\Debug\PhonePro_1.0.1.0_scale-150.msix
+ResourcePack=D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x64\Debug\PhonePro_1.0.1.0_scale-400.msix

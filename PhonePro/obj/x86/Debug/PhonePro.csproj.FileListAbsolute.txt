@@ -785,3 +785,4 @@ D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Debug\qualifiers.txt.inte
 D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Debug\ProjectArchitectures.txt
 D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424563200000000.json
+D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Core\ForBundle\AppxManifest.xml
