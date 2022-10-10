@@ -18,7 +18,7 @@
                     IsOpen="True"
                      Severity="Informational"
                     Title="Title"
-                 Message="Status Sip Server !!!" />
+                 Message="Free time" />
                 <TextBox x:Name="txtUser" Header="User/Extension/ID" IsEnabled="False" Margin="0,0,0,5" />
                 <TextBox x:Name="txtDomain" Header="Host Sipsever" IsEnabled="False" Margin="0,0,0,5" />
                 <TextBox x:Name="txtCall" Header="Enter your number call:" PlaceholderText="999" Margin="0,0,0,5" />
@@ -26,10 +26,11 @@
 
               
                 <StackPanel Orientation ="Horizontal" Margin="0,0,0,5">
-                        <Button Style="{StaticResource AccentButtonStyle}" Content="Call" Width="100px" Margin="0,0,5,0" />
-                        <Button Style="{StaticResource AccentButtonStyle}" Content="Hang On" Width="100px" Margin="0,0,5,0" />
-                        <Button Style="{StaticResource AccentButtonStyle}" Content="Recoding" Width="100px" Margin="0,0,5,0" />
-                        <Button Style="{StaticResource AccentButtonStyle}" Content="Video Call" Width="100px" />
+                    <Button Style="{StaticResource AccentButtonStyle}" Click="btnCall_Click" x:Name="btnCall" Content="Call" Width="100px" Margin="0,0,5,0" />
+                    <Button Style="{StaticResource AccentButtonStyle}" Click="btnHangUp_Click" x:Name="btnHangUp" Content="Hang Up" Width="100px" Margin="0,0,5,0" IsEnabled="False" />
+                    <Button Style="{StaticResource AccentButtonStyle}" x:Name="btnVideoCall" Content="Video Call" Width="100px" Margin="0,0,5,0" IsEnabled="False" />
+                    <Button Style="{StaticResource AccentButtonStyle}" x:Name="btnSound" Content="Switch off Sound" Margin="0,0,5,0" IsEnabled="False" />
+                    <Button Style="{StaticResource AccentButtonStyle}" x:Name="btnMic" Content="Mute" Margin="0,0,5,0" IsEnabled="False" />
                 </StackPanel>
                     
                

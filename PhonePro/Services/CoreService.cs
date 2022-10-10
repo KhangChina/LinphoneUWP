@@ -108,7 +108,7 @@ namespace PhonePro.Services
 
             AccountParams accountParams = Core.CreateAccountParams();
             accountParams.IdentityAddress = address;
-            string serverAddr = "sip:" + address.Domain + ";transport=tls";
+            string serverAddr = "sip:" + address.Domain + ";transport=udp";
             accountParams.ServerAddr = serverAddr;
 
             accountParams.RegisterEnabled = true;

@@ -112,6 +112,8 @@
       <RootProperty Name="Content" />
       <RootProperty Name="Width" />
       <RootProperty Name="Margin" />
+      <RootProperty Name="IsEnabled" />
+      <RootEvent Name="Click" />
     </RootType>
     <RootType FullName="PhonePro.Views.MainPage" />
     <RootType FullName="PhonePro.Views.PhoneBookPage" />

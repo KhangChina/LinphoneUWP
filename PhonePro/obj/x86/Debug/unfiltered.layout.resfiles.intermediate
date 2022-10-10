@@ -1,3 +1,4 @@
+WinMetadata\Windows.winmd
 share\BCunit\BCUnit-List.dtd
 share\BCunit\BCUnit-List.xsl
 share\BCunit\BCUnit-Run.dtd
@@ -74,11 +75,11 @@ share\liblinphone_tester\rcfiles\account_creator_rc
 share\liblinphone_tester\rcfiles\arthur_rc
 share\liblinphone_tester\rcfiles\assistant_create.rc
 share\liblinphone_tester\rcfiles\carddav_rc
-share\liblinphone_tester\rcfiles\chloe_lime_x3dh_rc
-share\liblinphone_tester\rcfiles\chloe_rc
 share\liblinphone_tester\rcfiles\claire_rc
 share\liblinphone_tester\rcfiles\claire_sips_rc
 share\liblinphone_tester\rcfiles\conference_focus_rc
+share\liblinphone_tester\rcfiles\chloe_lime_x3dh_rc
+share\liblinphone_tester\rcfiles\chloe_rc
 share\liblinphone_tester\rcfiles\empty_rc
 share\liblinphone_tester\rcfiles\friends_rc
 share\liblinphone_tester\rcfiles\groupchat_lime_x3dh_rc
@@ -322,4 +323,3 @@ Views\MainPage.xbf
 Views\PhoneBookPage.xbf
 Views\ShellPage.xbf
 Properties\Default.rd.xml
-WinMetadata\Windows.winmd

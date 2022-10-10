@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\C#\\LinphoneUWP\\PhonePro\\PhonePro.csproj": {}
+    "D:\\Project\\Windows 10 App\\LinphoneUWP\\PhonePro\\PhonePro.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\C#\\LinphoneUWP\\PhonePro\\PhonePro.csproj": {
+    "D:\\Project\\Windows 10 App\\LinphoneUWP\\PhonePro\\PhonePro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\C#\\LinphoneUWP\\PhonePro\\PhonePro.csproj",
+        "projectUniqueName": "D:\\Project\\Windows 10 App\\LinphoneUWP\\PhonePro\\PhonePro.csproj",
         "projectName": "PhonePro",
-        "projectPath": "D:\\Projects\\C#\\LinphoneUWP\\PhonePro\\PhonePro.csproj",
-        "packagesPath": "C:\\Users\\khang\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\C#\\LinphoneUWP\\PhonePro\\obj\\",
+        "projectPath": "D:\\Project\\Windows 10 App\\LinphoneUWP\\PhonePro\\PhonePro.csproj",
+        "packagesPath": "C:\\Users\\China\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\Windows 10 App\\LinphoneUWP\\PhonePro\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "D:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "D:\\Program file\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\khang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\China\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -28,6 +30,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\China\\Desktop\\dll": {},
+          "D:\\Program file\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://gitlab.linphone.org/api/v4/projects/411/packages/nuget/index.json": {}
         },

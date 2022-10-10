@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>KHANG</Machine>
-    <WindowsUser>khang</WindowsUser>
+    <Machine>CHINA</Machine>
+    <WindowsUser>China</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,15 +10,15 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7</PackageIdentityName>
     <PackageIdentityPublisher>CN=China</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\Projects\C#\LinphoneUWP\PhonePro\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Project\Windows 10 App\LinphoneUWP\PhonePro\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
-    <WindowsSdkPath>D:\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\AppX</LayoutDir>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>212E6DAF76D8DA6549E15876E9C21207F798056356788BBF8157E83D69CA5A6B</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7_1.0.0.0_x86__h9rhtbj2fn0m6</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>D09DFCFD-39DF-4CAE-B198-FFCD1D0C78B7_h9rhtbj2fn0m6!App</RegisteredUserModeAppID>
@@ -27,1406 +27,1406 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T15:00:41.523</Modified>
+      <Modified>2022-10-10T02:29:49.060</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\PhonePro.exe">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\PhonePro.exe">
       <PackagePath>entrypoint\PhonePro.exe</PackagePath>
-      <Modified>2022-10-09T15:00:40.624</Modified>
+      <Modified>2022-10-10T02:29:47.751</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\microsoft.bcl.asyncinterfaces\5.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\microsoft.bcl.asyncinterfaces\5.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
       <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
       <Modified>2020-10-19T18:40:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\microsoft.toolkit.mvvm\7.0.2\lib\netstandard2.0\Microsoft.Toolkit.Mvvm.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\microsoft.toolkit.mvvm\7.0.2\lib\netstandard2.0\Microsoft.Toolkit.Mvvm.dll">
       <PackagePath>Microsoft.Toolkit.Mvvm.dll</PackagePath>
       <Modified>2021-05-12T07:41:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
       <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
       <Modified>2019-04-27T01:06:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
       <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
       <Modified>2019-04-27T01:06:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
       <Modified>2021-02-05T01:15:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.3\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.3\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
       <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
       <Modified>2020-02-19T10:05:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\CsWrapper.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\CsWrapper.dll">
       <PackagePath>CsWrapper.dll</PackagePath>
       <Modified>2022-10-07T02:54:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\avcodec-53.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\avcodec-53.dll">
       <PackagePath>avcodec-53.dll</PackagePath>
       <Modified>2022-10-07T02:34:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\avutil-51.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\avutil-51.dll">
       <PackagePath>avutil-51.dll</PackagePath>
       <Modified>2022-10-07T02:34:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\bctoolbox-tester.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\bctoolbox-tester.dll">
       <PackagePath>bctoolbox-tester.dll</PackagePath>
       <Modified>2022-10-07T02:28:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\bctoolbox.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\bctoolbox.dll">
       <PackagePath>bctoolbox.dll</PackagePath>
       <Modified>2022-10-07T02:28:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\bcunit.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\bcunit.dll">
       <PackagePath>bcunit.dll</PackagePath>
       <Modified>2022-10-07T02:25:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\belcard.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\belcard.dll">
       <PackagePath>belcard.dll</PackagePath>
       <Modified>2022-10-07T02:35:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\bellesip.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\bellesip.dll">
       <PackagePath>bellesip.dll</PackagePath>
       <Modified>2022-10-07T02:31:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\belr.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\belr.dll">
       <PackagePath>belr.dll</PackagePath>
       <Modified>2022-10-07T02:29:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\bv16.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\bv16.dll">
       <PackagePath>bv16.dll</PackagePath>
       <Modified>2022-10-07T02:23:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\bzrtp.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\bzrtp.dll">
       <PackagePath>bzrtp.dll</PackagePath>
       <Modified>2022-10-07T02:30:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\decaf.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\decaf.dll">
       <PackagePath>decaf.dll</PackagePath>
       <Modified>2022-10-07T02:24:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\gsm.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\gsm.dll">
       <PackagePath>gsm.dll</PackagePath>
       <Modified>2022-10-07T02:23:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\jsoncpp.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\jsoncpp.dll">
       <PackagePath>jsoncpp.dll</PackagePath>
       <Modified>2022-10-07T02:24:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\liblinphone++.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\liblinphone++.dll">
       <PackagePath>liblinphone++.dll</PackagePath>
       <Modified>2022-10-07T02:51:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\liblinphone.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\liblinphone.dll">
       <PackagePath>liblinphone.dll</PackagePath>
       <Modified>2022-10-07T02:51:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\lime.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\lime.dll">
       <PackagePath>lime.dll</PackagePath>
       <Modified>2022-10-07T02:32:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\mediastreamer.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\mediastreamer.dll">
       <PackagePath>mediastreamer.dll</PackagePath>
       <Modified>2022-10-07T02:37:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\mediastreamer\plugins\libmsopenh264.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\mediastreamer\plugins\libmsopenh264.dll">
       <PackagePath>libmsopenh264.dll</PackagePath>
       <Modified>2022-10-07T02:37:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\mediastreamer\plugins\libmswasapi.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\mediastreamer\plugins\libmswasapi.dll">
       <PackagePath>libmswasapi.dll</PackagePath>
       <Modified>2022-10-07T02:38:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\mediastreamer\plugins\libmswebrtc.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\mediastreamer\plugins\libmswebrtc.dll">
       <PackagePath>libmswebrtc.dll</PackagePath>
       <Modified>2022-10-07T02:38:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\opus.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\opus.dll">
       <PackagePath>opus.dll</PackagePath>
       <Modified>2022-10-07T02:24:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\ortp.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\ortp.dll">
       <PackagePath>ortp.dll</PackagePath>
       <Modified>2022-10-07T02:30:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\soci_core_4_0.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\soci_core_4_0.dll">
       <PackagePath>soci_core_4_0.dll</PackagePath>
       <Modified>2022-10-07T02:31:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\soci_sqlite3_4_0.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\soci_sqlite3_4_0.dll">
       <PackagePath>soci_sqlite3_4_0.dll</PackagePath>
       <Modified>2022-10-07T02:31:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\speex.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\speex.dll">
       <PackagePath>speex.dll</PackagePath>
       <Modified>2022-10-07T02:24:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\speexdsp.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\speexdsp.dll">
       <PackagePath>speexdsp.dll</PackagePath>
       <Modified>2022-10-07T02:24:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\sqlite3.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\sqlite3.dll">
       <PackagePath>sqlite3.dll</PackagePath>
       <Modified>2022-10-07T02:24:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\srtp2.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\srtp2.dll">
       <PackagePath>srtp2.dll</PackagePath>
       <Modified>2022-10-07T02:27:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\swresample-0.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\swresample-0.dll">
       <PackagePath>swresample-0.dll</PackagePath>
       <Modified>2022-10-07T02:34:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\swscale-2.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\swscale-2.dll">
       <PackagePath>swscale-2.dll</PackagePath>
       <Modified>2022-10-07T02:34:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\xerces-c.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\xerces-c.dll">
       <PackagePath>xerces-c.dll</PackagePath>
       <Modified>2022-10-07T02:29:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\xml2.dll">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\lib\netcore\x86\xml2.dll">
       <PackagePath>xml2.dll</PackagePath>
       <Modified>2022-10-07T02:25:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2020-12-01T21:52:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\BCunit\BCUnit-List.dtd">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\BCunit\BCUnit-List.dtd">
       <PackagePath>share\BCunit\BCUnit-List.dtd</PackagePath>
       <Modified>2022-09-08T14:13:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\BCunit\BCUnit-Run.dtd">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\BCunit\BCUnit-Run.dtd">
       <PackagePath>share\BCunit\BCUnit-Run.dtd</PackagePath>
       <Modified>2022-09-08T14:13:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\BCunit\Memory-Dump.dtd">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\BCunit\Memory-Dump.dtd">
       <PackagePath>share\BCunit\Memory-Dump.dtd</PackagePath>
       <Modified>2022-09-08T14:13:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\BCunit\BCUnit-List.xsl">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\BCunit\BCUnit-List.xsl">
       <PackagePath>share\BCunit\BCUnit-List.xsl</PackagePath>
       <Modified>2022-09-08T14:13:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\BCunit\BCUnit-Run.xsl">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\BCunit\BCUnit-Run.xsl">
       <PackagePath>share\BCunit\BCUnit-Run.xsl</PackagePath>
       <Modified>2022-09-08T14:13:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\BCunit\Memory-Dump.xsl">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\BCunit\Memory-Dump.xsl">
       <PackagePath>share\BCunit\Memory-Dump.xsl</PackagePath>
       <Modified>2022-09-08T14:13:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belcard_tester\vcards\foldtest.vcf">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belcard_tester\vcards\foldtest.vcf">
       <PackagePath>share\belcard_tester\vcards\foldtest.vcf</PackagePath>
       <Modified>2022-09-08T14:14:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belcard_tester\vcards\unfoldtest.vcf">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belcard_tester\vcards\unfoldtest.vcf">
       <PackagePath>share\belcard_tester\vcards\unfoldtest.vcf</PackagePath>
       <Modified>2022-09-08T14:14:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belcard_tester\vcards\vcard.vcf">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belcard_tester\vcards\vcard.vcf">
       <PackagePath>share\belcard_tester\vcards\vcard.vcf</PackagePath>
       <Modified>2022-09-08T14:14:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belcard_tester\vcards\vcards.vcf">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belcard_tester\vcards\vcards.vcf">
       <PackagePath>share\belcard_tester\vcards\vcards.vcf</PackagePath>
       <Modified>2022-09-08T14:14:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\vcards\thousand_vcards.vcf">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\vcards\thousand_vcards.vcf">
       <PackagePath>share\liblinphone_tester\vcards\thousand_vcards.vcf</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\vcards\vcards.vcf">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\vcards\vcards.vcf">
       <PackagePath>share\liblinphone_tester\vcards\vcards.vcf</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belle_sip_tester\tester_hosts">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belle_sip_tester\tester_hosts">
       <PackagePath>share\belle_sip_tester\tester_hosts</PackagePath>
       <Modified>2022-09-08T14:14:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr\grammars\cpim_grammar">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr\grammars\cpim_grammar">
       <PackagePath>share\belr\grammars\cpim_grammar</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr\grammars\ics_grammar">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr\grammars\ics_grammar">
       <PackagePath>share\belr\grammars\ics_grammar</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr\grammars\identity_grammar">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr\grammars\identity_grammar">
       <PackagePath>share\belr\grammars\identity_grammar</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr\grammars\sdp_grammar">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr\grammars\sdp_grammar">
       <PackagePath>share\belr\grammars\sdp_grammar</PackagePath>
       <Modified>2022-09-08T14:14:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr\grammars\vcard_grammar">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr\grammars\vcard_grammar">
       <PackagePath>share\belr\grammars\vcard_grammar</PackagePath>
       <Modified>2022-09-08T14:14:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\local_tester_hosts">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\local_tester_hosts">
       <PackagePath>share\liblinphone_tester\local_tester_hosts</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\account_creator_flexiapi_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\account_creator_flexiapi_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\account_creator_flexiapi_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\account_creator_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\account_creator_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\account_creator_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\arthur_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\arthur_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\arthur_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\carddav_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\carddav_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\carddav_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\chloe_lime_x3dh_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\chloe_lime_x3dh_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\chloe_lime_x3dh_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\chloe_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\chloe_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\chloe_rc</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\claire_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\claire_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\claire_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\claire_sips_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\claire_sips_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\claire_sips_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\conference_focus_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\conference_focus_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\conference_focus_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\empty_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\empty_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\empty_rc</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\friends_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\friends_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\friends_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\groupchat_lime_x3dh_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\groupchat_lime_x3dh_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\groupchat_lime_x3dh_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\groupchat_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\groupchat_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\groupchat_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\invalid_friends_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\invalid_friends_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\invalid_friends_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\invalid_friends_xml">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\invalid_friends_xml">
       <PackagePath>share\liblinphone_tester\rcfiles\invalid_friends_xml</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\laure_call_logs_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\laure_call_logs_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\laure_call_logs_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\laure_lime_x3dh_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\laure_lime_x3dh_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\laure_lime_x3dh_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\laure_rc_udp">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\laure_rc_udp">
       <PackagePath>share\liblinphone_tester\rcfiles\laure_rc_udp</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\laure_tcp_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\laure_tcp_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\laure_tcp_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\lise_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\lise_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\lise_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie2_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie2_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie2_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_bodyless_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_bodyless_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_bodyless_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_dependent_proxy_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_dependent_proxy_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_dependent_proxy_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_dtls_srtp_immediate_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_dtls_srtp_immediate_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_dtls_srtp_immediate_rc</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_dual_proxy_2_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_dual_proxy_2_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_dual_proxy_2_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_dual_proxy_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_dual_proxy_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_dual_proxy_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_early_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_early_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_early_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_h264_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_h264_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_h264_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_lime_x3dh_no_server_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_lime_x3dh_no_server_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_lime_x3dh_no_server_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_lime_x3dh_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_lime_x3dh_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_lime_x3dh_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_nat64_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_nat64_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_nat64_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_os_defined_rtp_ports_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_os_defined_rtp_ports_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_os_defined_rtp_ports_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_quality_reporting_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_quality_reporting_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_quality_reporting_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_rc_call_logs_migration">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_rc_call_logs_migration">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_rc_call_logs_migration</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_rc_rtcp_xr">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_rc_rtcp_xr">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_rc_rtcp_xr</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_404_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_404_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_remote_404_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_default_values_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_default_values_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_remote_default_values_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_https_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_https_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_remote_https_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_invalid_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_invalid_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_remote_invalid_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_invalid_uri_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_invalid_uri_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_remote_invalid_uri_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_localfile2_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_localfile2_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_remote_localfile2_rc</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_localfile_android_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_localfile_android_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_remote_localfile_android_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_localfile_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_localfile_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_remote_localfile_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_localfile_win10_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_localfile_win10_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_remote_localfile_win10_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_remote_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_remote_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_rtp_port_range_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_rtp_port_range_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_rtp_port_range_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_session_timers_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_session_timers_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_session_timers_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_sips_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_sips_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_sips_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_transient_remote_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_transient_remote_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_transient_remote_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_v4proxy_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_v4proxy_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_v4proxy_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_well_known_port_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\marie_well_known_port_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\marie_well_known_port_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\michelle_lime_x3dh_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\michelle_lime_x3dh_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\michelle_lime_x3dh_rc</PackagePath>
       <Modified>2022-10-07T01:04:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\michelle_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\michelle_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\michelle_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\michelle_rc_udp">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\michelle_rc_udp">
       <PackagePath>share\liblinphone_tester\rcfiles\michelle_rc_udp</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\multi_account_lime_x3dh_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\multi_account_lime_x3dh_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\multi_account_lime_x3dh_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\multi_account_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\multi_account_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\multi_account_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_alt_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_alt_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_alt_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_as_friend_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_as_friend_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_as_friend_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_dtls_srtp_immediate_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_dtls_srtp_immediate_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_dtls_srtp_immediate_rc</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_external_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_external_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_external_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_h264_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_h264_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_h264_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_lime_x3dh_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_lime_x3dh_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_lime_x3dh_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_nat64_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_nat64_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_nat64_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_os_defined_rtp_ports_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_os_defined_rtp_ports_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_os_defined_rtp_ports_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_rc_rtcp_xr">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_rc_rtcp_xr">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_rc_rtcp_xr</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_rtp_port_range_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_rtp_port_range_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_rtp_port_range_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_sips_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_sips_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_sips_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_tcp_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_tcp_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_tcp_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_tls_client_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_tls_client_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_tls_client_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_tunnel_verify_server_certificate_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_tunnel_verify_server_certificate_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_tunnel_verify_server_certificate_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_v4proxy_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_v4proxy_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_v4proxy_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_well_known_port_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_well_known_port_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_well_known_port_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_wild_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\pauline_wild_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\pauline_wild_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\remote_zero_length_params_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\remote_zero_length_params_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\remote_zero_length_params_rc</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\stun_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\stun_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\stun_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\zero_length_params_rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\zero_length_params_rc">
       <PackagePath>share\liblinphone_tester\rcfiles\zero_length_params_rc</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\tester_hosts">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\tester_hosts">
       <PackagePath>share\liblinphone_tester\tester_hosts</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr-tester\res\basicgrammar.txt">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr-tester\res\basicgrammar.txt">
       <PackagePath>share\belr-tester\res\basicgrammar.txt</PackagePath>
       <Modified>2022-09-08T14:14:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr-tester\res\register.txt">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr-tester\res\register.txt">
       <PackagePath>share\belr-tester\res\register.txt</PackagePath>
       <Modified>2022-09-08T14:14:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr-tester\res\response.txt">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr-tester\res\response.txt">
       <PackagePath>share\belr-tester\res\response.txt</PackagePath>
       <Modified>2022-09-08T14:14:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr-tester\res\sipgrammar.txt">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr-tester\res\sipgrammar.txt">
       <PackagePath>share\belr-tester\res\sipgrammar.txt</PackagePath>
       <Modified>2022-09-08T14:14:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr-tester\res\vcardgrammar.txt">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr-tester\res\vcardgrammar.txt">
       <PackagePath>share\belr-tester\res\vcardgrammar.txt</PackagePath>
       <Modified>2022-09-08T14:14:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\example.txt">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\example.txt">
       <PackagePath>share\doc\libjpeg-turbo\example.txt</PackagePath>
       <Modified>2022-09-08T14:14:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\libjpeg.txt">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\libjpeg.txt">
       <PackagePath>share\doc\libjpeg-turbo\libjpeg.txt</PackagePath>
       <Modified>2022-09-08T14:14:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\structure.txt">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\structure.txt">
       <PackagePath>share\doc\libjpeg-turbo\structure.txt</PackagePath>
       <Modified>2022-09-08T14:14:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\usage.txt">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\usage.txt">
       <PackagePath>share\doc\libjpeg-turbo\usage.txt</PackagePath>
       <Modified>2022-09-08T14:14:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\wizard.txt">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\wizard.txt">
       <PackagePath>share\doc\libjpeg-turbo\wizard.txt</PackagePath>
       <Modified>2022-09-08T14:14:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\ortp-5.2.0\LICENSE.txt">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\ortp-5.2.0\LICENSE.txt">
       <PackagePath>share\doc\ortp-5.2.0\LICENSE.txt</PackagePath>
       <Modified>2022-09-08T14:15:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\version.txt">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\version.txt">
       <PackagePath>share\version.txt</PackagePath>
       <Modified>2022-10-07T01:44:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr\grammars\belr-grammar-example.blr">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\belr\grammars\belr-grammar-example.blr">
       <PackagePath>share\belr\grammars\belr-grammar-example.blr</PackagePath>
       <Modified>2022-09-08T14:14:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\LICENSE.md">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\LICENSE.md">
       <PackagePath>share\doc\libjpeg-turbo\LICENSE.md</PackagePath>
       <Modified>2022-09-08T14:14:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\README.md">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\README.md">
       <PackagePath>share\doc\libjpeg-turbo\README.md</PackagePath>
       <Modified>2022-09-08T14:14:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\ortp-5.2.0\AUTHORS.md">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\ortp-5.2.0\AUTHORS.md">
       <PackagePath>share\doc\ortp-5.2.0\AUTHORS.md</PackagePath>
       <Modified>2022-09-08T14:15:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\ortp-5.2.0\CHANGELOG.md">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\ortp-5.2.0\CHANGELOG.md">
       <PackagePath>share\doc\ortp-5.2.0\CHANGELOG.md</PackagePath>
       <Modified>2022-09-08T14:15:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\ortp-5.2.0\README.md">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\ortp-5.2.0\README.md">
       <PackagePath>share\doc\ortp-5.2.0\README.md</PackagePath>
       <Modified>2022-09-08T14:15:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\README.ijg">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\README.ijg">
       <PackagePath>share\doc\libjpeg-turbo\README.ijg</PackagePath>
       <Modified>2022-09-08T14:14:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\tjexample.c">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\doc\libjpeg-turbo\tjexample.c">
       <PackagePath>share\doc\libjpeg-turbo\tjexample.c</PackagePath>
       <Modified>2022-09-08T14:14:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\images\nowebcamCIF.jpg">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\images\nowebcamCIF.jpg">
       <PackagePath>share\images\nowebcamCIF.jpg</PackagePath>
       <Modified>2022-09-08T14:14:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\images\linphonesiteqr.jpg">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\images\linphonesiteqr.jpg">
       <PackagePath>share\liblinphone_tester\images\linphonesiteqr.jpg</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\images\linphonesiteqr_captured.jpg">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\images\linphonesiteqr_captured.jpg">
       <PackagePath>share\liblinphone_tester\images\linphonesiteqr_captured.jpg</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\images\nowebcamCIF.jpg">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\images\nowebcamCIF.jpg">
       <PackagePath>share\liblinphone_tester\images\nowebcamCIF.jpg</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\images\nowebcamVGA.jpg">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\images\nowebcamVGA.jpg">
       <PackagePath>share\liblinphone_tester\images\nowebcamVGA.jpg</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\altname\agent.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\altname\agent.pem">
       <PackagePath>share\liblinphone_tester\certificates\altname\agent.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\altname\cafile.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\altname\cafile.pem">
       <PackagePath>share\liblinphone_tester\certificates\altname\cafile.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\cert.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\cert.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\cert.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\cert2-signed-by-other-ca.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\cert2-signed-by-other-ca.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\cert2-signed-by-other-ca.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\cert2.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\cert2.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\cert2.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\cert3.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\cert3.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\cert3.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\key.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\key.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\key.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\key2-signed-by-other-ca.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\key2-signed-by-other-ca.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\key2-signed-by-other-ca.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\key2.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\key2.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\key2.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\key3.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\key3.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\key3.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user1_cert.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user1_cert.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\user1_cert.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user1_key.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user1_key.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\user1_key.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user1_multiple_aliases_cert.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user1_multiple_aliases_cert.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\user1_multiple_aliases_cert.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user1_multiple_aliases_key.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user1_multiple_aliases_key.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\user1_multiple_aliases_key.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user2_cert.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user2_cert.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\user2_cert.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user2_CN_cert.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user2_CN_cert.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\user2_CN_cert.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user2_CN_key.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user2_CN_key.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\user2_CN_key.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user2_key.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user2_key.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\user2_key.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user2_revoked_cert.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user2_revoked_cert.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\user2_revoked_cert.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user2_revoked_key.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\client\user2_revoked_key.pem">
       <PackagePath>share\liblinphone_tester\certificates\client\user2_revoked_key.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\cn\agent.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\cn\agent.pem">
       <PackagePath>share\liblinphone_tester\certificates\cn\agent.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\cn\cafile.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\cn\cafile.pem">
       <PackagePath>share\liblinphone_tester\certificates\cn\cafile.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\lime_tester\data\cacert.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\lime_tester\data\cacert.pem">
       <PackagePath>share\lime_tester\data\cacert.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\lime_tester\data\sip5.linphone.org.selfsigned-cert.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\lime_tester\data\sip5.linphone.org.selfsigned-cert.pem">
       <PackagePath>share\lime_tester\data\sip5.linphone.org.selfsigned-cert.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\lime_tester\data\x3dh-cert.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\lime_tester\data\x3dh-cert.pem">
       <PackagePath>share\lime_tester\data\x3dh-cert.pem</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\Linphone\rootca.pem">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\Linphone\rootca.pem">
       <PackagePath>share\Linphone\rootca.pem</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\altname\openssl-altname.cnf">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\altname\openssl-altname.cnf">
       <PackagePath>share\liblinphone_tester\certificates\altname\openssl-altname.cnf</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\cn\openssl-cn.cnf">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\certificates\cn\openssl-cn.cnf">
       <PackagePath>share\liblinphone_tester\certificates\cn\openssl-cn.cnf</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\db\call-history.db">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\db\call-history.db">
       <PackagePath>share\liblinphone_tester\db\call-history.db</PackagePath>
       <Modified>2022-10-06T21:04:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\db\chatrooms.db">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\db\chatrooms.db">
       <PackagePath>share\liblinphone_tester\db\chatrooms.db</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\db\friends.db">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\db\friends.db">
       <PackagePath>share\liblinphone_tester\db\friends.db</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\db\linphone.db">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\db\linphone.db">
       <PackagePath>share\liblinphone_tester\db\linphone.db</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\db\messages.db">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\db\messages.db">
       <PackagePath>share\liblinphone_tester\db\messages.db</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\images\linphone.svg">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\images\linphone.svg">
       <PackagePath>share\liblinphone_tester\images\linphone.svg</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\assistant_create.rc">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\rcfiles\assistant_create.rc">
       <PackagePath>share\liblinphone_tester\rcfiles\assistant_create.rc</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sipp\call_invite_200ok_without_contact_header.xml">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sipp\call_invite_200ok_without_contact_header.xml">
       <PackagePath>share\liblinphone_tester\sipp\call_invite_200ok_without_contact_header.xml</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sipp\call_with_audio_mline_before_video_in_sdp.xml">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sipp\call_with_audio_mline_before_video_in_sdp.xml">
       <PackagePath>share\liblinphone_tester\sipp\call_with_audio_mline_before_video_in_sdp.xml</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sipp\call_with_multiple_audio_mline_in_sdp.xml">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sipp\call_with_multiple_audio_mline_in_sdp.xml">
       <PackagePath>share\liblinphone_tester\sipp\call_with_multiple_audio_mline_in_sdp.xml</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sipp\call_with_multiple_video_mline_in_sdp.xml">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sipp\call_with_multiple_video_mline_in_sdp.xml">
       <PackagePath>share\liblinphone_tester\sipp\call_with_multiple_video_mline_in_sdp.xml</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sipp\call_with_transfer_incoming_ringing_call.xml">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sipp\call_with_transfer_incoming_ringing_call.xml">
       <PackagePath>share\liblinphone_tester\sipp\call_with_transfer_incoming_ringing_call.xml</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sipp\call_with_video_mline_before_audio_in_sdp.xml">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sipp\call_with_video_mline_before_audio_in_sdp.xml">
       <PackagePath>share\liblinphone_tester\sipp\call_with_video_mline_before_audio_in_sdp.xml</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sipp\sip_update_within_icoming_reinvite_with_no_sdp.xml">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sipp\sip_update_within_icoming_reinvite_with_no_sdp.xml">
       <PackagePath>share\liblinphone_tester\sipp\sip_update_within_icoming_reinvite_with_no_sdp.xml</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2022-10-08T12:49:33.893</Modified>
+      <Modified>2022-10-07T08:44:07.382</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\ahbahouaismaisbon.wav">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\ahbahouaismaisbon.wav">
       <PackagePath>share\liblinphone_tester\sounds\ahbahouaismaisbon.wav</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\continuous_48000_stereo.wav">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\continuous_48000_stereo.wav">
       <PackagePath>share\liblinphone_tester\sounds\continuous_48000_stereo.wav</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\hello44100.wav">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\hello44100.wav">
       <PackagePath>share\liblinphone_tester\sounds\hello44100.wav</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\hello8000.wav">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\hello8000.wav">
       <PackagePath>share\liblinphone_tester\sounds\hello8000.wav</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\hello8000_mkv_ref.wav">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\hello8000_mkv_ref.wav">
       <PackagePath>share\liblinphone_tester\sounds\hello8000_mkv_ref.wav</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\oldphone.wav">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\oldphone.wav">
       <PackagePath>share\liblinphone_tester\sounds\oldphone.wav</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\ringback.wav">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\ringback.wav">
       <PackagePath>share\liblinphone_tester\sounds\ringback.wav</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\vrroom.wav">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\vrroom.wav">
       <PackagePath>share\liblinphone_tester\sounds\vrroom.wav</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\hello16000.wav">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\hello16000.wav">
       <PackagePath>share\sounds\linphone\hello16000.wav</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\hello8000.wav">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\hello8000.wav">
       <PackagePath>share\sounds\linphone\hello8000.wav</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\incoming_chat.wav">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\incoming_chat.wav">
       <PackagePath>share\sounds\linphone\incoming_chat.wav</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\ringback.wav">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\ringback.wav">
       <PackagePath>share\sounds\linphone\ringback.wav</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\rings\oldphone-mono.wav">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\rings\oldphone-mono.wav">
       <PackagePath>share\sounds\linphone\rings\oldphone-mono.wav</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\toy-mono.wav">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\toy-mono.wav">
       <PackagePath>share\sounds\linphone\toy-mono.wav</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\hello8000.mkv">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\hello8000.mkv">
       <PackagePath>share\liblinphone_tester\sounds\hello8000.mkv</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\sintel_trailer_opus_h264.mkv">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\sintel_trailer_opus_h264.mkv">
       <PackagePath>share\liblinphone_tester\sounds\sintel_trailer_opus_h264.mkv</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\sintel_trailer_opus_vp8.mkv">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\sintel_trailer_opus_vp8.mkv">
       <PackagePath>share\liblinphone_tester\sounds\sintel_trailer_opus_vp8.mkv</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\sintel_trailer_pcmu_h264.mkv">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\liblinphone_tester\sounds\sintel_trailer_pcmu_h264.mkv">
       <PackagePath>share\liblinphone_tester\sounds\sintel_trailer_pcmu_h264.mkv</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\dont_wait_too_long.mkv">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\dont_wait_too_long.mkv">
       <PackagePath>share\sounds\linphone\dont_wait_too_long.mkv</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\rings\four_hands_together.mkv">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\rings\four_hands_together.mkv">
       <PackagePath>share\sounds\linphone\rings\four_hands_together.mkv</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\rings\house_keeping.mkv">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\rings\house_keeping.mkv">
       <PackagePath>share\sounds\linphone\rings\house_keeping.mkv</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\rings\its_a_game.mkv">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\rings\its_a_game.mkv">
       <PackagePath>share\sounds\linphone\rings\its_a_game.mkv</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\rings\leaving_dreams.mkv">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\rings\leaving_dreams.mkv">
       <PackagePath>share\sounds\linphone\rings\leaving_dreams.mkv</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\rings\notes_of_the_optimistic.mkv">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\rings\notes_of_the_optimistic.mkv">
       <PackagePath>share\sounds\linphone\rings\notes_of_the_optimistic.mkv</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\rings\soft_as_snow.mkv">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\rings\soft_as_snow.mkv">
       <PackagePath>share\sounds\linphone\rings\soft_as_snow.mkv</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\silence.mkv">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\sounds\linphone\silence.mkv">
       <PackagePath>share\sounds\linphone\silence.mkv</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\lime_tester\data\pattern_getSelfIk.C25519.sqlite3">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\lime_tester\data\pattern_getSelfIk.C25519.sqlite3">
       <PackagePath>share\lime_tester\data\pattern_getSelfIk.C25519.sqlite3</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\lime_tester\data\pattern_getSelfIk.C448.sqlite3">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\lime_tester\data\pattern_getSelfIk.C448.sqlite3">
       <PackagePath>share\lime_tester\data\pattern_getSelfIk.C448.sqlite3</PackagePath>
       <Modified>2022-09-08T14:14:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\linphonecs\LinphoneWrapper.cs">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\linphonecs\LinphoneWrapper.cs">
       <PackagePath>share\linphonecs\LinphoneWrapper.cs</PackagePath>
       <Modified>2022-10-07T01:44:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\mbedtls\mbedcryptoTarget-relwithdebinfo.cmake">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\mbedtls\mbedcryptoTarget-relwithdebinfo.cmake">
       <PackagePath>share\mbedtls\mbedcryptoTarget-relwithdebinfo.cmake</PackagePath>
       <Modified>2022-10-07T01:29:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\mbedtls\mbedcryptoTarget.cmake">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\mbedtls\mbedcryptoTarget.cmake">
       <PackagePath>share\mbedtls\mbedcryptoTarget.cmake</PackagePath>
       <Modified>2022-10-07T01:29:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\mbedtls\mbedtlsTarget-relwithdebinfo.cmake">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\mbedtls\mbedtlsTarget-relwithdebinfo.cmake">
       <PackagePath>share\mbedtls\mbedtlsTarget-relwithdebinfo.cmake</PackagePath>
       <Modified>2022-10-07T01:29:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\mbedtls\mbedtlsTarget.cmake">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\mbedtls\mbedtlsTarget.cmake">
       <PackagePath>share\mbedtls\mbedtlsTarget.cmake</PackagePath>
       <Modified>2022-10-07T01:29:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\mbedtls\mbedx509Target-relwithdebinfo.cmake">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\mbedtls\mbedx509Target-relwithdebinfo.cmake">
       <PackagePath>share\mbedtls\mbedx509Target-relwithdebinfo.cmake</PackagePath>
       <Modified>2022-10-07T01:29:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\mbedtls\mbedx509Target.cmake">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\linphonesdk.windows\5.2.0-beta.14\content\mbedtls\mbedx509Target.cmake">
       <PackagePath>share\mbedtls\mbedx509Target.cmake</PackagePath>
       <Modified>2022-10-07T01:29:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\BadgeLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\BadgeLogo.scale-400.png">
       <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:13:18.312</Modified>
+      <Modified>2022-10-10T01:29:26.920</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.824</Modified>
+      <Modified>2022-10-10T01:29:26.920</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\LargeTile.scale-125.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\LargeTile.scale-125.png">
       <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.848</Modified>
+      <Modified>2022-10-10T01:29:26.920</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\LargeTile.scale-150.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\LargeTile.scale-150.png">
       <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.898</Modified>
+      <Modified>2022-10-10T01:29:26.920</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.938</Modified>
+      <Modified>2022-10-10T01:29:26.920</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.047</Modified>
+      <Modified>2022-10-10T01:29:26.920</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.481</Modified>
+      <Modified>2022-10-10T01:29:26.920</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\SmallTile.scale-125.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SmallTile.scale-125.png">
       <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.495</Modified>
+      <Modified>2022-10-10T01:29:26.920</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\SmallTile.scale-150.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SmallTile.scale-150.png">
       <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.508</Modified>
+      <Modified>2022-10-10T01:29:26.920</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.523</Modified>
+      <Modified>2022-10-10T01:29:26.920</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.545</Modified>
+      <Modified>2022-10-10T01:29:26.951</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.408</Modified>
+      <Modified>2022-10-10T01:29:26.951</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.438</Modified>
+      <Modified>2022-10-10T01:29:26.951</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.480</Modified>
+      <Modified>2022-10-10T01:29:26.951</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.736</Modified>
+      <Modified>2022-10-10T01:29:26.951</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.563</Modified>
+      <Modified>2022-10-10T01:29:26.951</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.577</Modified>
+      <Modified>2022-10-10T01:29:26.951</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.614</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.671</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.295</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.308</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.384</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.327</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.339</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.218</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.279</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.240</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.252</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.059</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.073</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.088</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.119</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.131</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-24.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.153</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.200</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-32.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.166</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.178</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.760</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-125.png">
       <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.775</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-150.png">
       <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.789</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.804</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.831</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.686</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.703</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.726</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.804</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2022-10-08T12:49:33.874</Modified>
+      <Modified>2022-10-07T08:44:06.167</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.539</Modified>
+      <Modified>2022-10-10T01:29:26.951</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.634</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.101</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:38.229</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-09T07:27:37.749</Modified>
+      <Modified>2022-10-10T01:29:26.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\PhonePro.xr.xml">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\PhonePro.xr.xml">
       <PackagePath>PhonePro.xr.xml</PackagePath>
-      <Modified>2022-10-09T14:59:10.105</Modified>
+      <Modified>2022-10-10T02:09:33.533</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-10-09T15:00:40.560</Modified>
+      <Modified>2022-10-10T02:29:47.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\Page.xbf">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\Page.xbf">
       <PackagePath>Styles\Page.xbf</PackagePath>
-      <Modified>2022-10-09T15:00:40.560</Modified>
+      <Modified>2022-10-10T02:29:47.634</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_Colors.xbf">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_Colors.xbf">
       <PackagePath>Styles\_Colors.xbf</PackagePath>
-      <Modified>2022-10-09T15:00:40.560</Modified>
+      <Modified>2022-10-10T02:29:47.634</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_FontSizes.xbf">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_FontSizes.xbf">
       <PackagePath>Styles\_FontSizes.xbf</PackagePath>
-      <Modified>2022-10-09T15:00:40.560</Modified>
+      <Modified>2022-10-10T02:29:47.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_Thickness.xbf">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_Thickness.xbf">
       <PackagePath>Styles\_Thickness.xbf</PackagePath>
-      <Modified>2022-10-09T15:00:40.560</Modified>
+      <Modified>2022-10-10T02:29:47.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\TextBlock.xbf">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\TextBlock.xbf">
       <PackagePath>Styles\TextBlock.xbf</PackagePath>
-      <Modified>2022-10-09T15:00:40.560</Modified>
+      <Modified>2022-10-10T02:29:47.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Views\loading.xbf">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\loading.xbf">
       <PackagePath>Views\loading.xbf</PackagePath>
-      <Modified>2022-10-09T15:00:40.560</Modified>
+      <Modified>2022-10-10T02:29:47.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Views\loginDialogPage.xbf">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\loginDialogPage.xbf">
       <PackagePath>Views\loginDialogPage.xbf</PackagePath>
-      <Modified>2022-10-09T15:00:40.560</Modified>
+      <Modified>2022-10-10T02:29:47.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Views\MainPage.xbf">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2022-10-09T15:00:40.560</Modified>
+      <Modified>2022-10-10T02:29:47.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Views\PhoneBookPage.xbf">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\PhoneBookPage.xbf">
       <PackagePath>Views\PhoneBookPage.xbf</PackagePath>
-      <Modified>2022-10-09T15:00:40.560</Modified>
+      <Modified>2022-10-10T02:29:47.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Views\ShellPage.xbf">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\ShellPage.xbf">
       <PackagePath>Views\ShellPage.xbf</PackagePath>
-      <Modified>2022-10-09T15:00:40.560</Modified>
+      <Modified>2022-10-10T02:29:47.635</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
       <Modified>2020-12-01T21:59:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2020-12-01T19:52:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
+    <AppxPackagedFile Include="C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2020-12-03T09:46:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-10-09T14:21:09.231</Modified>
+      <Modified>2022-10-10T01:32:55.784</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projects\C#\LinphoneUWP\PhonePro\bin\x86\Debug\Core\PhonePro.exe">
+    <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Core\PhonePro.exe">
       <PackagePath>PhonePro.exe</PackagePath>
-      <Modified>2022-10-09T15:00:41.520</Modified>
+      <Modified>2022-10-10T02:29:49.058</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx">
+    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx">
       <Name>Microsoft.UI.Xaml.2.5</Name>
       <Version>2.52012.2002.0</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <AppxLocation>C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx">
+    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx">
       <Name>Microsoft.UI.Xaml.2.5</Name>
       <Version>2.52012.2002.0</Version>
       <Architecture>Win32</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <AppxLocation>C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.5.appx">
+    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.5.appx">
       <Name>Microsoft.UI.Xaml.2.5</Name>
       <Version>2.52012.2002.0</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <AppxLocation>C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.5.appx">
+    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.5.appx">
       <Name>Microsoft.UI.Xaml.2.5</Name>
       <Version>2.52012.2002.0</Version>
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <AppxLocation>C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.5.appx">
+    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.5.appx">
       <Name>Microsoft.UI.Xaml.2.5</Name>
       <Version>2.52012.2002.0</Version>
       <Architecture>arm64</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\khang\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <AppxLocation>C:\Users\China\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
       <Version>2.2.29713.2</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\khang\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\China\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
       <Version>2.2.29713.2</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\khang\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\China\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
       <Version>2.2.29713.2</Version>
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\khang\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\China\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
       <Version>2.2.29301.2</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\khang\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\China\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
       <Version>2.2.29301.2</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\khang\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\China\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\khang\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\China\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
       <Version>2.2.29301.2</Version>
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\khang\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\China\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
