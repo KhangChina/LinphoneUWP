@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-10T04:15:11.823</Modified>
+      <Modified>2022-10-10T04:22:50.864</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\PhonePro.exe">
       <PackagePath>entrypoint\PhonePro.exe</PackagePath>
-      <Modified>2022-10-10T04:15:10.085</Modified>
+      <Modified>2022-10-10T04:22:49.280</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\China\.nuget\packages\microsoft.bcl.asyncinterfaces\5.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
       <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
@@ -1266,47 +1266,47 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-10-10T04:15:09.965</Modified>
+      <Modified>2022-10-10T04:22:49.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\Page.xbf">
       <PackagePath>Styles\Page.xbf</PackagePath>
-      <Modified>2022-10-10T04:15:09.965</Modified>
+      <Modified>2022-10-10T04:22:49.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_Colors.xbf">
       <PackagePath>Styles\_Colors.xbf</PackagePath>
-      <Modified>2022-10-10T04:15:09.965</Modified>
+      <Modified>2022-10-10T04:22:49.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_FontSizes.xbf">
       <PackagePath>Styles\_FontSizes.xbf</PackagePath>
-      <Modified>2022-10-10T04:15:09.965</Modified>
+      <Modified>2022-10-10T04:22:49.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\_Thickness.xbf">
       <PackagePath>Styles\_Thickness.xbf</PackagePath>
-      <Modified>2022-10-10T04:15:09.965</Modified>
+      <Modified>2022-10-10T04:22:49.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Styles\TextBlock.xbf">
       <PackagePath>Styles\TextBlock.xbf</PackagePath>
-      <Modified>2022-10-10T04:15:09.965</Modified>
+      <Modified>2022-10-10T04:22:49.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\loading.xbf">
       <PackagePath>Views\loading.xbf</PackagePath>
-      <Modified>2022-10-10T04:15:09.965</Modified>
+      <Modified>2022-10-10T04:22:49.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\loginDialogPage.xbf">
       <PackagePath>Views\loginDialogPage.xbf</PackagePath>
-      <Modified>2022-10-10T04:15:09.966</Modified>
+      <Modified>2022-10-10T04:22:49.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2022-10-10T04:15:09.966</Modified>
+      <Modified>2022-10-10T04:22:49.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\PhoneBookPage.xbf">
       <PackagePath>Views\PhoneBookPage.xbf</PackagePath>
-      <Modified>2022-10-10T04:15:09.966</Modified>
+      <Modified>2022-10-10T04:22:49.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Views\ShellPage.xbf">
       <PackagePath>Views\ShellPage.xbf</PackagePath>
-      <Modified>2022-10-10T04:15:09.966</Modified>
+      <Modified>2022-10-10T04:22:49.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -1326,7 +1326,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\Windows 10 App\LinphoneUWP\PhonePro\bin\x86\Debug\Core\PhonePro.exe">
       <PackagePath>PhonePro.exe</PackagePath>
-      <Modified>2022-10-10T04:15:11.819</Modified>
+      <Modified>2022-10-10T04:22:50.861</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

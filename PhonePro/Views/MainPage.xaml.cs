@@ -136,8 +136,21 @@ namespace PhonePro.Views
             //VideoService.StopVideoStream();
         }
 
-        private void btnCall_Click(object sender, Windows.UI.Xaml.RoutedEventArgs e)
+        private async void btnCall_Click(object sender, Windows.UI.Xaml.RoutedEventArgs e)
         {
+            if(txtCall.Text.Length < 1)
+            {
+                ContentDialog dialog = new ContentDialog();
+                dialog.XamlRoot = this.XamlRoot;
+                dialog.Style = Application.Current.Resources["DefaultContentDialogStyle"] as Style;
+                dialog.Title = "Vaidate Number !";
+                dialog.PrimaryButtonText = "GG";
+                dialog.DefaultButton = ContentDialogButton.Primary;
+                dialog.Content = "Ê đấm nhau ko ?";
+                await dialog.ShowAsync();
+                return;
+            }
+
             btnCall.IsEnabled = false;
             loadingName.Visibility = Visibility.Visible;
             CoreService.Call(txtCall.Text);
